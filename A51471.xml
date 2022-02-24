@@ -1,0 +1,877 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The most remarkable passages from most parts of Christendome, for about three months past gathered out of the best intelligence that comes to this kingdome, either by letters or otherwise, very usefull for our nation to take notice of. Wherein you have the actions of Germany, France, Spain, Italy, and the Low-Countryes. In Upper Germany, the various fortunes of the Swedish and Imperiall armies. In Lower Germany (since the joyning of the Hessish and Weymarish) the continuall good successe of that party against Lamboy, the Bishop of Collen, and other their confederates. The undertakings and actions of the French and Spanish Kings in Catalonia, with the taking of Coluvre. Something of the Hollander both at home and abroad, in the West-Indies, as the taking S. Tomee.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51471</idno>
+            <idno type="STC">Wing M2915</idno>
+            <idno type="STC">ESTC R212711</idno>
+            <idno type="EEBO-CITATION">99825485</idno>
+            <idno type="PROQUEST">99825485</idno>
+            <idno type="VID">29867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51471)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1920:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The most remarkable passages from most parts of Christendome, for about three months past gathered out of the best intelligence that comes to this kingdome, either by letters or otherwise, very usefull for our nation to take notice of. Wherein you have the actions of Germany, France, Spain, Italy, and the Low-Countryes. In Upper Germany, the various fortunes of the Swedish and Imperiall armies. In Lower Germany (since the joyning of the Hessish and Weymarish) the continuall good successe of that party against Lamboy, the Bishop of Collen, and other their confederates. The undertakings and actions of the French and Spanish Kings in Catalonia, with the taking of Coluvre. Something of the Hollander both at home and abroad, in the West-Indies, as the taking S. Tomee.</title>
+               </titleStmt>
+               <extent>[2], 70 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nath. Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1618-1648 --  Early works to 1800.</term>
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+               <term>West Indies --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29867:1" rendition="simple:additions"/>
+            <p>THE MOST Remarkable Paſſages From moſt parts of Chriſtendome, for about three months paſt:</p>
+            <p>Gathered out of the beſt Intelligence that comes to this Kingdome, either by Letters or other<g ref="char:EOLhyphen"/>wiſe, very uſefull for our. Nation to take notice of.</p>
+            <p>Wherein you have the actions of <hi>Germany, France, Spain, Italy, and the Low-Countryes.</hi>
+            </p>
+            <p>In Upper Germany, the various fortunes of the Swediſh and Imperiall Armies.</p>
+            <p>In Lower Germany (ſince the joyning of the Heſſiſh and Weymariſh) the continuall good ſucceſſe of that party againſt <hi>Lamboy,</hi> the Biſhop of Collen, and other their Confederates.</p>
+            <p>The undertakings and actions of the French and Spaniſh Kings in <hi>Catalonia,</hi> with the taking of <hi>Coluvre.</hi>
+            </p>
+            <p>
+               <hi>Something of the Hollander both at home and abroad, in the Weſt-Indies, as the taking S. Tomee.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for NATH. BUTTER. 1642.</p>
+            <pb facs="tcp:29867:2" rendition="simple:additions"/>
+            <pb facs="tcp:29867:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:29867:3"/>
+            <pb n="1" facs="tcp:29867:3"/>
+            <head>
+               <hi>Brunſwick the</hi> 1.11. <hi>of Feb.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>Enerall Major <hi>Pfuel,</hi> (who heretofore ſerved under the Swedes) and Mon<g ref="char:EOLhyphen"/>ſieur <hi>Peus,</hi> are paſſed through this City, and gone to Arch-duke <hi>Leopold William</hi> to deſire ſervice of the Em<g ref="char:EOLhyphen"/>perour. The French Ambaſſadour Monſieur <hi>Avaux</hi> hath been at <hi>Hildeſheim,</hi> thinking to hinder the agreement betwixt the Emperour and the Dukes of Brunſwick and Luneburg, but came too late.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>An abſtract of Generall</hi> Piccolominies <hi>Letter to Colonel</hi> Weſtphalen, <hi>bearing date the</hi> 29. <hi>of Jan. the</hi> 7. <hi>of March.</hi>
+            </head>
+            <p>THe confirmation of the unhappy encounter of Generall <hi>Lamboy</hi> with the Weymariſh Armie, I have underſtood out of your laſt Letter; and upon the conſideration of many circumſtan<g ref="char:EOLhyphen"/>ces, I can conclude nothing elſe, but that this defeat and overthrow was for the moſt part over<g ref="char:EOLhyphen"/>ſeene, and proceeded out of a meere ambition, becauſe he had under his command good old beaten ſouldiers, and Field-marſhall <hi>Hatsfeld</hi> with
+<pb n="2" facs="tcp:29867:4"/>his Troops was not above a dayes marching from him, with whom he ſhould have joyned. Without this overthrow we had been maſters in the field every where, but God intended to viſit and humble us. Upon the receipt of this unplea<g ref="char:EOLhyphen"/>ſant news, Arch-Duke <hi>Leopold William</hi> was con<g ref="char:EOLhyphen"/>firmed the more in his heroicall reſolution, and furthered the marching of the Armies hither<g ref="char:EOLhyphen"/>wards, and againſt the Swedes, and yeſterday ar<g ref="char:EOLhyphen"/>rived hereabouts about Weidel &amp; Tangermund: Whereupon the Swedes hearing of our com<g ref="char:EOLhyphen"/>ming, moved likewiſe their former quarters, and marched with their maine ſtrength and power towards Saltzwedel, where they ly now. We ſeek nothing elſe, but to meet them in theſe eaven and flat fields, and to force them to a battaile, being confident, that with our Cavallerie, which is in a good caſe, we ſhall over-match them, and within three or foure dayes we ſhall lay a Ship-bridge over the river of Elve, either here or ſomewhat lower, that in caſe of neceſſity we may the better draw the Sileſian Armie to us. What further ſhall paſſe, I will certifie you by the next.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Tangermund</hi> 
+                  <date>the 29. <hi>of Jan.</hi> 7. <hi>of Febr.</hi> 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Weymar the</hi> 3.13. <hi>of Feb.</hi>
+            </head>
+            <p>AT this inſtant comes our Foot-Poſt from Rommelsburg, certifying, that on Sunday laſt the Swediſh Commander in the Caſtle of Mansfeld, fallied out with diſplayed colours, and
+<pb n="3" facs="tcp:29867:4"/>got not onely in the Mill at Leimbach a great ſtore of meale, but alſo put to the ſword by the way many Imperiall ſouldiers, and made a great hole into the ſiege.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Hamborough the</hi> 1.11. <hi>of Feb.</hi>
+            </head>
+            <p>WIthin theſe two dayes the King of Den<g ref="char:EOLhyphen"/>marks Camp ſhall be demoliſhed, and all the Forces drawne off. It is reported that the Emperour hath highly upbraided the ſaid King of Denmark, for framing a Camp upon the ground of the ſacred Romane Empire, without the knowledge of any man, what his deſigne is.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Vienna the</hi> 2.12. <hi>of Feb.</hi>
+            </head>
+            <p>THis City hath agreed to pay unto the Empe<g ref="char:EOLhyphen"/>rour 200000 Florens, and the States of Lower Auſtria will doe the like; and being the Swediſh ſouldiers in Beuthen mutined, wherefore the Swediſh Commander in it was forced to ſur<g ref="char:EOLhyphen"/>render the ſaid City unto the Imperialiſts. The Palatine Treatie goes on very ſlowly, and is no hope as yet of any reſtitution.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Norimberg the</hi> 5.15. <hi>of Feb.</hi>
+            </head>
+            <p>FRom Leipſig and Dreſden is confirmed, that the Swedes have given a blow to ſome Im<g ref="char:EOLhyphen"/>periall Regiments, and forced the reſt to retire over the river of Elve. From Gothen they
+<pb n="4" facs="tcp:29867:5"/>write, that a Swediſh partie hath ſtraggled alrea<g ref="char:EOLhyphen"/>dy as far as Magdeburg.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Lower Saxonie the</hi> 9.19. <hi>of Feb.</hi>
+            </head>
+            <p>THE Imperiall Armie that lay about Tan<g ref="char:EOLhyphen"/>germund, hath laid a ſhip-bridge over the river of Elve, over which they are mar<g ref="char:EOLhyphen"/>ched, and intend to come upon the backs of the Swedes, which lye yet in and about Sultzwedel, and have likewiſe ſtrongly guarded Oſterburg, out of which the Imperialiſts were beaten. Co<g ref="char:EOLhyphen"/>lonel <hi>Goldacker</hi> hath beene commanded abroad with 600. Curraſſiers, and Colonel <hi>Feduary</hi> with 600. Crabats, which have ſtrugled as far as Stetin and Wiſmar, and in two ſeverall places lighted upon 300. Swediſh horſemen, whereof they ſlew many, and tooke many priſoners. The Imperiall Ambaſſador Count of Auersberg appointed for the treaty of peace with the King of France, and the Sweads, is conducted by Generall <hi>Torſtenſohns</hi> Trumpeter from Wolffenbuttle to Hamborough. The Duke of Luneburg hath caſhier'd the Com<g ref="char:EOLhyphen"/>mander in Hieldeſheim, becauſe he had made a ſecret agreement with the Townes-men to ſuffer no other garriſon to come into the ſaid City, but keepe it out by force.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Baſel</hi> 9.19. <hi>of Feb.</hi>
+            </head>
+            <p>THis City hath levied already a company of 500. men for the King of France, the City of Bern levieth foure companies, in ſo much that
+<pb n="5" facs="tcp:29867:5"/>the King of France receiveth fully the 6000. Switzers.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 9.19. <hi>of Feb.</hi>
+            </head>
+            <p>THE tumult in this City is now appeaſed a<g ref="char:EOLhyphen"/>gain. Doctor <hi>Oſterman</hi> with ſome others is fled away, our Magiſtrates have impriſoned ſixe of the chiefeſt ring-leaders, which according to their deſerts ſhall be puniſhed ſoundly, for an ex<g ref="char:EOLhyphen"/>ample to others. The Spaniards have put 600. men more into Gulick, for the re-inforcing of the garriſon there. From Maſtricht they write that the Spaniards draw together about Pieſt 1500. horſe and 1500. foote, ſome whereof are paſſed already by Namur. It is reported that they are to joyne with Field Marſhall <hi>Hatzfeld,</hi> and if they doe it, then the States of Holland have given order to ſome 1000. men of their forces to joyne with the Weymariſh. Here is made great preparation for a ſhip-bridge, over which the Imperialiſts are to march. The Lorraine troopes are come to this ſide of the river of Moſel, and have taken their quarters there.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 10.20. <hi>of Feb.</hi>
+            </head>
+            <p>THe French and Weymariſh Forces have ſet already a ſtrong foot into this Country, and they will hardly ever be driven out of it againe, becauſe they ſtrengthen themſelves exceedingly. They have taken the Caſtle of Hulekrath, Lin,
+<pb n="6" facs="tcp:29867:6"/>and Duyren, wherein they found great ſtore of corne and other proviſion; and into all places that they take, they put Heſſiſh garriſons. At this in<g ref="char:EOLhyphen"/>ſtant we receive aviſoes, that the Cities of Mun<g ref="char:EOLhyphen"/>ſter Eyffel, and Sulch, are likewiſe ſurrendred unto the Weymariſh; but thoſe of Liege have obtained the neutrality of <hi>Conte de Guebrian,</hi> which levie now 4000. Foot and 1000. Horſemen for the defence of their Country.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>From the Biſhoprick of Collen the</hi> 12.22. <hi>of Feb. and from the Country of Gulick the</hi> 13.23. <hi>of Feb.</hi>
+            </head>
+            <p>HItherto both parties have paid for the win<g ref="char:EOLhyphen"/>ter quarters; and albeit the Duke of New<g ref="char:EOLhyphen"/>burg comforted all the Cities in the country of Gulick, with the neutrality, if ſo be they doe de<g ref="char:EOLhyphen"/>ny quarters to the Imperialiſts; yet the ſaid Duke finds himſelfe deceived now, for the Weymariſh Auditor told the ſaid Duke at Duſſeldorp to his face, that they take nothing elſe but what they can carry along with them, becauſe the King of France knows hitherto of no neutrality with the Country of Gulick, and that therefore now ac<g ref="char:EOLhyphen"/>cording to the cuſtome of war, inſtead of the Im<g ref="char:EOLhyphen"/>perialiſts which lay enquartered here laſt yeare, they have now taken up their quarters, and ſo they have made themſelves maſters of the Cities of Gladbach, Dulcken, Dahlen, Grevenbroch, Caſter, Berchem, Hambach, and other places, and now they are gone againſt Duyren, Sulch, Eyskirchen, Munſter Eyffel, Sintzig, Romegen,
+<pb n="7" facs="tcp:29867:6"/>and other places. Yeſterday they pillaged the City of Sulch. They find no where any oppoſi<g ref="char:EOLhyphen"/>tion. In Duyren they have found above 100000. ſacks with corne; every where they have found all the Noblemens houſes full of proviſion; it is not to be expreſſed what bootie they get. From the Caſtle of Bebber they have carryed away two waggons loaden with plate; They carry all the booty to Weſel, and into the Country of Cleve. Colonel <hi>Roſa</hi> hath his quarter at Duyren and thereabouts; <hi>Tupadell</hi> at Sulch and Munſter Eyffel; <hi>Conte de guebrian</hi> at Neus, where the head<g ref="char:EOLhyphen"/>quarter is; they make all places as ſtrong as they can. At this inſtant we heare that they are mar<g ref="char:EOLhyphen"/>ching now towards Aaken.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 13.23. <hi>of Feb.</hi>
+            </head>
+            <p>IN my former Letter I certified you of the ta<g ref="char:EOLhyphen"/>king of Lin, the Caſtle of Hulekrath, being ve<g ref="char:EOLhyphen"/>ry ſtrong, and having round about a deep and wide moat, together with thick walls, hath now been beſieged theſe eight dayes by the Weyma<g ref="char:EOLhyphen"/>riſh, and five dayes long they battered it with their Canons. This morning we receive aviſoes, that it is likewiſe ſurrendred. Three dayes agoe, a part of their Armie marched towards Duyren, which was yeſterday ſurrendred in like manner. The City of Sulch they have likewiſe taken. At Bergerhauſen they have got above a thouſand horſes. At Blatzeim the Boores offered to make oppoſition, but they fell ſhort: and many of them
+<pb n="8" facs="tcp:29867:7"/>were ſlaine. The Weymariſh ſtrengthen them<g ref="char:EOLhyphen"/>ſelves exceedingly. At this inſtant we receive aviſoes, that Munſter Eyffel is likewiſe ſurren<g ref="char:EOLhyphen"/>dred. In a word, they make themſelves maſters of the whole Countrey. The other day, Generall Major <hi>Enckefort</hi> went from hence to the Duke of Lorraine to conſult with him, and Generall <hi>Beck,</hi> and to ſee whether a way may be found out to oppoſe the Weymariſh forces, becauſe they give over now all hope of the Bavarian ſuccour.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Leipſig the</hi> 12.22. <hi>of Feb.</hi>
+            </head>
+            <p>FRom Magdeburg they write, that the Swedes have taken the ſtrong paſſage of Oſterburg, wherein Colonel <hi>Wolff</hi> lay with five Companies of Dragooners, the moſt part whereof they put to they ſword; and it is ſaid, that onely his Lieutenant Colonel eſcaped. Whether. Colonel <hi>Wolff</hi> be dead or taken Priſoner, is not knowne as yet: It is certaine, that the Imperiall and Bavarian Armie is paſſed the river of Elve, and lyes now betwixt the river of Havel and Sprew: It is ſaid, that they intend to march into the Dukedome of Mecklenburg, but they will find but little proviſion there either for men or horſes. The Swedes have ſurrendred the City of Spern<g ref="char:EOLhyphen"/>berg, pillaged the ſame, and put ſome men in it to the ſword; and the Lo: <hi>Ulrich Wentzeln</hi> Baron of Biberſtein, they took priſoner. From Eyſleben they write, that the Caſtle of Mansfeld is yet ſtoutly defended by the Swedes.</p>
+         </div>
+         <div type="entry">
+            <pb n="9" facs="tcp:29867:7"/>
+            <head>
+               <hi>Hamborough the</hi> 14.24. <hi>of Feb.</hi>
+            </head>
+            <p>PAſſengers comming from the Swediſh head<g ref="char:EOLhyphen"/>quarter at Saltzwedel, confirme the great plot and treacherie that was diſcovered, which Colonel <hi>Seckendorff</hi> had laid againſt Generall <hi>Torſtenſon</hi> and the whole Armie, which he inten<g ref="char:EOLhyphen"/>ded to deliver over unto the Imperialiſts, for which he was impriſoned, and afterwards his head cut off.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 15.25. <hi>of Feb.</hi>
+            </head>
+            <p>OUr Magiſtrates here take yet daily ſome perſons in apprehenſion: The Imperiall ſuccour which was expected ſo long, appeares not yet, at which the Biſhop of Collen is vexed very much. Hulekrath is ſurrendred by compoſi<g ref="char:EOLhyphen"/>tion unto the Weymariſh. They have divided their Armie into three parts; One part is gone towards Duyren, the other towards Aaken, and the third over-runs the countrey, and brings in the contribution. The States and Peeres of the Biſhoprick of Collen, are going againe towards Neys, to remonſtrate, that it is impoſſible for them to raiſe in the countrey ſo great a ſumme of money, which the Weymariſh and Heſſiſh For<g ref="char:EOLhyphen"/>ces demand.</p>
+            <p>The King of France hath made over by bills of exchange to the Princeſſe of Heſſen, 100000. crowns for the continuation of the war: 23. Heſſiſh
+<pb n="10" facs="tcp:29867:8"/>Companies of Foot and 12. Companies of Horſe are marched through the countie of Bentheim <hi>de gone</hi> to joyne with the Weymariſh Forces. 2500. Boores of the country of Gulick have like<g ref="char:EOLhyphen"/>wiſe joyned with the Weymariſh Armie, threat<g ref="char:EOLhyphen"/>ning that they will be revenged of the city of Collen, which as they pretend hath been the undoing of them.</p>
+            <p>From Amſterdam the 19. of <hi>Feb.</hi> the 1. of <hi>Mar.</hi> they write, that the city of Aaken is likewiſe ſur<g ref="char:EOLhyphen"/>rendred unto the Weymariſh. They write alſo, that with the laſt ſhips from Fernamboucque in Brazill, they have news, that the Hollanders ſince the taking of the Iland of S. Thomee, have like<g ref="char:EOLhyphen"/>wiſe taken the Iland and City of Maranhaon.</p>
+            <p>From Paris they write, that the French in Ca<g ref="char:EOLhyphen"/>talonia had ſome overthrow given them by the Spaniards, and that the King with the new Ar<g ref="char:EOLhyphen"/>mie makes the more haſte thitherwards. They write alſo, that the Cardinal of Savoy is to marry his deceaſed brothers wife the Dutcheſſe, and that the ſaid Cardinall hath delivered up to the King of France the ſtrong Sea-port <hi>Nizzade la Paglia.</hi>
+            </p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Lower Saxonie the</hi> 9.19. <hi>of Feb.</hi>
+            </head>
+            <p>IT is certaine, that the Imperiall Armie, toge<g ref="char:EOLhyphen"/>ther with the whole Artillerie, is paſſed at Tangermund the river of Elve, and the Ship<g ref="char:EOLhyphen"/>bridge was preſently thereupon taken up and ſent back towards Magdeburg. At this inſtant we
+<pb n="11" facs="tcp:29867:8"/>heare, that the Swedes are marching over the Garleber Plaine towards New Haldeſleben, which lyes three Dutch miles from Magdeburg, where they intend to keep their randevouz, and then to march farther into the Biſhoprick of Halberſtat and Arbiſhoprick of Magdeburg; and this day divers Swediſh parties have been ſeen about New Haldeſleben: Whether now the whole Swediſh Armie will follow, time will ſhew.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Magdeburg the</hi> 13.23. <hi>of Feb.</hi>
+            </head>
+            <p>THe Imperiall Head quarter is now at Lo<g ref="char:EOLhyphen"/>burg, and the Bavarian at Mockeren, three or foure Dutch miles from hence. The Ship<g ref="char:EOLhyphen"/>bridge lyes yet at Rogen, foure Dutch miles from hence; which by reaſon of the continuall high winds, cannot be brought hither; but the Swediſh Armie, we heare, is now going down<g ref="char:EOLhyphen"/>wards. Generall Major <hi>Coningſmarek</hi> with ſome Regiments of Horſe, lyes in and about Garle<g ref="char:EOLhyphen"/>ben; what his deſigne is, time will ſhew. The Imperiall Colonel <hi>Goldacker</hi> and Colonel <hi>Feduarii</hi> have beene with 1200. Horſemen in the Duke<g ref="char:EOLhyphen"/>dome of Mackelburg, where they had good ſuc<g ref="char:EOLhyphen"/>ceſſe, eſpecially at Wittemberg, where they ob<g ref="char:EOLhyphen"/>tained above 200. ſadled horſes, with all their furniture, and the horſemen they put to the ſword.</p>
+         </div>
+         <div type="entry">
+            <pb n="12" facs="tcp:29867:9"/>
+            <head>
+               <hi>Collen the</hi> 12.22. <hi>of Feb.</hi>
+            </head>
+            <p>HEre in this city daily new forces are levied. Since the taking of Lin and Kempen, the caſtle of Hulekrath and the city of Duyren is likewiſe ſurrendred unto the Weymariſh. In a word, they doe yet what they liſt: Yeſterday they were muſtered, and they were found above 20000. ſtrong in the field, beſides thoſe that they have lying here and there in Garriſon. The Lorraine Troops lye yet at Bobers, which are but in a poore caſe.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Hamborongh the</hi> 12.22. <hi>of Feb.</hi>
+            </head>
+            <p>ALbeit the King of Denmark hath cauſed his Camp before this City to be razed and de<g ref="char:EOLhyphen"/>moliſhed, notwithſtanding he begins to forme another, and to that end hath ſent to Gluckſtat for ten Peeces of Ordnance more to be brought unto him. The ſaid King hath likewiſe commanded, that all mens names throughout all his domini<g ref="char:EOLhyphen"/>ons ſhall be ſet downe, to employ them in War by ſea and land, whenſoever occaſion ſhall re<g ref="char:EOLhyphen"/>quire it, whereof the Magiſtrates in the Cities have made a beginning already. The Drem<g ref="char:EOLhyphen"/>blinger Boores have taken in unto them 1000. Imperiall Muſquetiers, which offer to venture their lives with them.</p>
+            <p>From the Swediſh Camp they write, that Co<g ref="char:EOLhyphen"/>lonel <hi>Seckendorff,</hi> a Franconian Gentleman, had
+<pb n="13" facs="tcp:29867:9"/>correſpondence with the Imperialiſts, and his plot was to provide a great banquet for the chie<g ref="char:EOLhyphen"/>feſt Swediſh Commanders, and when they had been ſoundly drunk, the Imperialiſts ſhould have falne upon the Swediſh Armie, and thus over<g ref="char:EOLhyphen"/>throwne the ſame, which was diſcovered by the Trumpeter, whom he had ſent with a Letter to the Imperialiſts; for when he was paſſing through the Swediſh Centrie and Watch, he was queſti<g ref="char:EOLhyphen"/>oned, and found inconſtant in his ſpeeches; where<g ref="char:EOLhyphen"/>upon a ſuſpition was preſently caſt upon him, and after that the Letter was found with him, the whole baſeneſſe was diſcovered, whereupon the aforeſaid Colonel <hi>Seckendorff</hi> was laid hold on, and being condemned by the law of Warre, his head was cut off. He intended likewiſe to revolt with his whole Regiment from the Swediſh Ar<g ref="char:EOLhyphen"/>mie, and to come over to the Imperiall Armie. This day the Count of Averſperg arrived here, who ſhall be employed in the Treaty of Peace. The Swediſh Forces are yet reſolved to fight. And albeit Generall <hi>Torſtenſon</hi> is yet very weak, notwitſtanding hee doth not omit to give audience, counſell, command, and the like, and followeth the buſineſſe to his utmoſt abilities.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Brunſwick the</hi> 12.22. <hi>of Feb.</hi>
+            </head>
+            <p>THe Imperiall Ambaſſadour Doctor <hi>Kallſmith</hi> is daily expected againe at Goſlar, who brings the ratification from the Emperour of
+<pb n="14" facs="tcp:29867:10"/>the Treatie agreed upon between the Imperiall, Brunſwich, and Luneburgiſh Ambaſſadours.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Berlin the</hi> 12.23. <hi>of Feb.</hi>
+            </head>
+            <p>ABout New Holdeſleben, three Dutch miles from Magdebueg, appeare daily ſtrong Swediſh parties, and it is not known as yet, whe<g ref="char:EOLhyphen"/>ther the whole Swediſh Armie will follow; and if they doe not follow with the whole Armie, yet queſtionleſſe they will command ſtrong parties towards the ſtrong Caſtle of Mansfeld, to relieve the ſame: And it is certaine, that the Bavarian Colonel <hi>Wolff,</hi> who lay with 5. companies of Dragooners in Oſterburg, was ſurpriſed by the Swedes, and all his men were put to the ſword, and taken priſoners, inſomuch that no more but his Lieutenant Colonel eſcaped. Whether Colo<g ref="char:EOLhyphen"/>nel <hi>Wolff</hi> himſelfe be ſlaine or taken priſoner, is not yet knowne. The Swedes upon the Caſtle of Mansfeld defend themſelves yet ſtoutly. 5. dayes agoe, an Officer of Col: <hi>Dracmullers</hi> Regiment was ſent into the Caſtle, which is not yet come back againe: the reaſon of it is not knowne. And at this inſtant we receive intelligence, that the Swediſh Generall Major <hi>Coningſmureck</hi> is going thitherwards with 8. Regiments of horſe, who hath order to relieve the ſaid caſtle. The Swediſh troops in Sileſia have ſurpriſed the city of Spren<g ref="char:EOLhyphen"/>berg, plundered the ſame, and put ſome of the Inhabitants to the ſword, and carryed away pri<g ref="char:EOLhyphen"/>ſoner the Lo: <hi>Ulrich Wentzell,</hi> Baron of Biberſtein.</p>
+         </div>
+         <div type="entry">
+            <pb n="15" facs="tcp:29867:10"/>
+            <head>
+               <hi>Minden the</hi> 13.23. <hi>of Feb.</hi>
+            </head>
+            <p>THe Swedes have yet their Head quarters at Saltzwedel, and the Imperialiſts at Stendel. The Imperialiſts upon the perſwaſion of General Major <hi>Pfuel,</hi> who hath ſerved many years in the Swediſh Armie, and is now with Arch-dake <hi>Leo<g ref="char:EOLhyphen"/>pold William,</hi> have been moved to advance thus far againſt the Swediſh Armie, telling them that the ſame was but weak, ſtarved, and conditioned in ſuch a manner, that if they would now take their advantage, they might eaſily overthrow and totally extirpate the ſame: But being that they found his report falſe, and the ſaid Armie in a good condition and Poſture, it is beleeved, that the Imperialiſts will ſhortly returne back againe, and the Swedes (being they have received certain intelligence, that the Imperialiſts are not by far ſo ſtrong as it was reported, as alſo that the Ba<g ref="char:EOLhyphen"/>varian Armie by reaſon of the ſucceſſefull pro<g ref="char:EOLhyphen"/>greſſe of the Weymariſh and Heſſiſh Forces, will be drawne off from the Imperiall Armie) march directly againſt the Imperialiſts.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Weſel the</hi> 13.23. <hi>of Feb.</hi>
+            </head>
+            <p>THe Weymariſh have ſurpriſed the Boores that lay entrenched in the village of Adel<g ref="char:EOLhyphen"/>geeſt, and moſt of them put to the ſword. They make the inhabitants every where pay great ſummes of money unto them. About 1500. dead
+<pb n="16" facs="tcp:29867:11"/>bodies of <hi>Lamboys</hi> ſouldiers lye yet unburied, and are eaten up by the dogs, which cauſeth a very noyſome ſtinke.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Hamborough the</hi> 14.24. <hi>of Feb.</hi>
+            </head>
+            <p>LAndgrave <hi>John</hi> of Heſſen Parmſtat, who hath been Generall for the Duke of Lune<g ref="char:EOLhyphen"/>burg, hath agreed (as we heare) with the French Ambaſſadour, to deliver over unto his Maſter the King of France, 2000. horſemen and 3000. Foot: On the other ſide, the ſaid King ſhall pay unto him 100000. crownes, and declare him Marſhall <hi>de</hi> France. The ſaid Ambaſſadour hath likewiſe deſired <hi>Chriſtian Lodwyck</hi> Duke of Lune<g ref="char:EOLhyphen"/>burk to turne over unto his Maſter the King of France one Regiment of horſe, and two Regi<g ref="char:EOLhyphen"/>ments of Foot, for 50000. Rixdallers. From Lower Saxonie they write, that Generall <hi>Torſten<g ref="char:EOLhyphen"/>ſon</hi> is broke with his Armie from Saltzwedel, and gone towards Adelberg and Danneberg. Meane Generall Major <hi>Coningſmureck</hi> with 7. Regiments of Horſe and 1000. Muſquetiers arrived the other day at Ohsfeld in the Biſhoprick of Magdeburg: Whether he will relieve the Caſtle of Mansfeld, or attempt ſomething elſe, time will ſhew. The Imperiall Colonel <hi>Goldacker,</hi> and <hi>Feduarii,</hi> which were lately commanded abroad, have cauſed great terror and feare in the Dukedome of Mag<g ref="char:EOLhyphen"/>deburg, becauſe they ſurpriſed the City of Wit<g ref="char:EOLhyphen"/>tenbach, wherein they cut off a whole Swediſh Company, and uſed the Inhabitants cruelly. The
+<pb n="17" facs="tcp:29867:11"/>Imperiall Armie is now paſſing the river of Elve, and going towards Wittemberg.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 17.27. <hi>of Feb.</hi>
+            </head>
+            <p>ON Sunday laſt the Caſtle of Hulekrath was forced to yield upon diſcretion unto the Weymariſh, the common Souldiers forced the Officers to it, though they could have held out eight dayes longer: In the ſaid Caſtle they have obtained a great booty, the 2000. Wey<g ref="char:EOLhyphen"/>mariſh Souldiers that lay before it, are now fol<g ref="char:EOLhyphen"/>lowing the Armie towards Duyren, which City the Weymariſh begun the other day to batter; &amp; ſince we heare the City is ſurrendred. A part of the ſaid Armie is gone towards Sulick; and be<g ref="char:EOLhyphen"/>ing they intercepted Letters by the way ſent by the Elector of Collen to the Commander in it, wherein he commanded him to make no oppo<g ref="char:EOLhyphen"/>ſition againſt the Weymariſh, but agree with them in the beſt manner he could. Which Letter the Weymariſh ſent unto the Commander with threatning words, to hang him and all his ſoul<g ref="char:EOLhyphen"/>diers, if he did make oppoſition contrary to his Electors order and command: Whereupon he came preſently to a compoſition, and did march out with bag and baggage: but being the Wey<g ref="char:EOLhyphen"/>mariſh Forces were then likewiſe marching thi<g ref="char:EOLhyphen"/>therwards, the ſaid Commander with his ſoul<g ref="char:EOLhyphen"/>diers was perſwaded to take pay under the Wey<g ref="char:EOLhyphen"/>mariſh, and afterwards thoſe in Eyskirchen did the like, whereupon a part of the Armie went to<g ref="char:EOLhyphen"/>wards
+<pb n="18" facs="tcp:29867:12"/>the Moſel to looke to the Lorraine For<g ref="char:EOLhyphen"/>ces: <hi>Hatsfelds</hi> Forces lye yet ſtill, and <hi>Hatsfeld</hi> himſelfe lyes ſick here in this City.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 23. <hi>of Feb.</hi> 5. <hi>of March.</hi>
+            </head>
+            <p>THis Biſhoprick and the next neighbouring Countries are totally ruinated by the Wey<g ref="char:EOLhyphen"/>mariſh. The City of Aaken is in great danger; The Magiſtrats of the ſaid City will not ſuffer the Townes-men to carry away any goods, and take up 500. men for the defence of the ſaid City: Onely to the Clergie they have given way to ſend away their Church Ornaments. Meane while the Weymariſh play the maſters in theſe countries, and take one place after another. They keep themſelves cloſe together, that they may not eaſily be ſurpriſed. <hi>Conte du Guebrian,</hi> who is made of the Order of the holy Ghoſt, hath his head quarter at Neys, which City he will keep for his King, and hath put the Duke of Wittem<g ref="char:EOLhyphen"/>berg into it for Governour, and the Count of Eberſtein will keep the city of Kempen for the Princeſſe of Heſſen. <hi>Tupadell</hi> lyes at Sulick, and <hi>Roſa</hi> at Duyren; they get infinite ſtore of provi<g ref="char:EOLhyphen"/>ſion, and ſtrengthen themſelves exceedingly. <hi>Hatsfelds</hi> Forces lye at Lintz, Hammerſtein, and other places thereabouts, and long for the Lor<g ref="char:EOLhyphen"/>raine and Bavarian ſuccour.</p>
+         </div>
+         <div type="entry">
+            <pb n="19" facs="tcp:29867:12"/>
+            <head>
+               <hi>Leipſig the</hi> 19. <hi>of Feb. the</hi> 1. <hi>of March.</hi>
+            </head>
+            <p>BEing the Elector of Collen and Field-mar<g ref="char:EOLhyphen"/>ſhall <hi>Hatsfeld</hi> ſent one expreſſe after another to ſolicite a ſpeedy ſuccour; whereupon the Ba<g ref="char:EOLhyphen"/>varian Armie is to march towards the river of Rhine, and to that end is parted already from the Imperiall Armie, and gone towards Magdeburg, where the Ship-bridge is taken up againe, and ſhal be laid over the Elve, betwixt Aaken and Barby. Meane while the Swedes have taken the city of New Holderſleben, three Dutch miles from Magdeburg, wherein commands now the Swe<g ref="char:EOLhyphen"/>diſh Colonel <hi>Witzleben,</hi> who hath ſummoned the whole countrie as far as the river Saala, to come in and pay contribution unto them.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Weſel</hi> 24. <hi>of Feb. the</hi> 6. <hi>of Mar.</hi>
+            </head>
+            <p>FEw dayes agoe the Weymariſh ſummoned the City of Lechenich; the other day the Deputies of the Biſhoprick of Collen came back from Neys to Collen, and have brought a little more ſatisfaction. It is hoped, that the Weymariſh will come to a compoſition with the ſaid Biſho<g ref="char:EOLhyphen"/>prick for a ſumme of money, that the inhabi<g ref="char:EOLhyphen"/>tants may return again to their dwelling places. At Ordingen the Weymariſh have laid a Toll upon all ſhips that goe to and fro. Generall Ma<g ref="char:EOLhyphen"/>jor <hi>Tupadel</hi> hath chaſed the Lorraine troopes back again over the river of Moſel. A part of <hi>Hatzfelds</hi>
+               <pb n="20" facs="tcp:29867:13"/>Cavallerie came over the Rhyne, intending to ſurpriſe ſome of the Swediſh Troops, but they failed, and were chaſed back.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>From Caſſel in Heſſen the</hi> 22. <hi>of Feb. the</hi> 4. <hi>of Mar.</hi>
+            </head>
+            <p>FRom Hildeſheim they write, that the Impe<g ref="char:EOLhyphen"/>riall and Swediſh Armies are parted one from the other, without fighting; onely the Swedes have ruinated ſome Companies of the Imperiall Curaſſiers. The Imperialiſts are paſſed the river of Elve, and the Swedes are returned towards the country of Luneburg, and three dayes agoe they arrived at Wolffsburg.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Amſterdam the</hi> 23. <hi>of Feb. the</hi> 5. <hi>of Mar.</hi>
+            </head>
+            <p>THe 26. of <hi>Feb.</hi> arrived here before this City the Pinace called <hi>Leyder Dorp,</hi> which came from Fernambouc in Brazill the 8.18. of <hi>Jan.</hi> which brought theſe aviſoes following. The 25. of <hi>Octob</hi> 1641. our Admirall <hi>Lichthand</hi> and Co<g ref="char:EOLhyphen"/>lonel <hi>Kom</hi> after ſome few ſhots made, took by compoſition the City and Caſtle of Maranhaon; for as ſoone as our men were ſet aſhoare, the In<g ref="char:EOLhyphen"/>habitants ſet up a white flag, deſiring that they may enjoy the liberties of Inhabitants, in theſe countries. This city is a great place, and called S. <hi>Laurence Maranhaon.</hi> The Caſtle is very ſtrong, provided with 45. Peeces of Ordnance, and the countrey is very fruitfull. The 13. of <hi>Jan.</hi> came hither from S. Tomee, three ſhips manned with
+<pb n="21" facs="tcp:29867:13"/>700. men, amongſt which were three companies of Bazillians, which brought certaine newes, that our Admirall <hi>Houtebeene,</hi> or <hi>Wooden leg,</hi> had like<g ref="char:EOLhyphen"/>wiſe maſtered the Iſland and City of S. Tomee. The guarriſon that was in it, was ſent to Portu<g ref="char:EOLhyphen"/>gall. The beſieged defended themſelves ſtoutly, but at laſt they were forced to yeeld. This city is of a reaſonable bigneſſe; after the taking of it, the Admirall fell ſick of the country ſickneſſe, and within ſixe dayes after, dyed of it: And of five companies the moſt ſouldiers alſo dyed, a<g ref="char:EOLhyphen"/>mongſt which is Captaine <hi>Damer, Valet, Galant,</hi> two Lieutenants, foure Ancients, and other offi<g ref="char:EOLhyphen"/>cers. In Guinea our Forces have likewiſe taken the Fort of Atſhyn, neere <hi>Cape tres punctes,</hi> ſo that the Portugals have not a foot of land more upon the coaſts of Africa.</p>
+            <p>The Weymariſh Forces demand of the city of Aaken, 12000. paire of Piſtols, 12000. Carabins, and a great ſumme of money. The Biſhop and Biſhoprick of Collen have offered to pay unto them 440000, Rixdallers for a ranſome; whether they will accept of it, we ſhall heare.</p>
+            <p>At Dunkerke is openly proclaimed, that none upon paine of death ſhall undertake to carry any ſuccour or reliefe to the Rebels in Ireland.</p>
+         </div>
+         <div type="entry">
+            <pb n="22" facs="tcp:29867:14"/>
+            <head>
+               <hi>Lyons the</hi> 13.23. <hi>of Feb.</hi>
+            </head>
+            <p>THis day his Majeſty the King of Erance, to<g ref="char:EOLhyphen"/>gether with the Cardinall <hi>Richelieu,</hi> after that they had continued here for three dayes, are broke up againe, and gone towards Narbona, where the generall randevouz ſhall be kept of an Armie of 40000. men, wherewith the King in<g ref="char:EOLhyphen"/>tends to march into Catalonia, and to maſter the City of Terragona by force. The Infanterie was carryed by ſea, and the Cavallerie went by land: It is thought that the ſaid Armie when it hath made an end with Catalonia, will march towards Italie. The new levied Switzers ſhall be enquar<g ref="char:EOLhyphen"/>tered in the Dukedome of Lorraine.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Brunſwick the</hi> 15.25. <hi>of Feb.</hi>
+            </head>
+            <p>AFter that the Imperialiſts had paſſed the river of Elve, at Tangermund, the Swedes enquartered themſelves in the Biſhoprick of Magdeburg and Halberſtat, within foure Dutch miles from hence. <hi>Coningſmareck</hi> with the whole Cavallerie hath his head quarter at Ohsfeld.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Aaken the</hi> 19. <hi>of Feb. the</hi> 1. <hi>of Mar.</hi>
+            </head>
+            <p>ON Thurſday laſt the City of Duyren after ſixe dayes ſiege was ſurrendred unto the Weymariſh and Heſſiſh Forces; and although it was agreed upon, that but 600. of them ſhould
+<pb n="23" facs="tcp:29867:14"/>come into the towne, notwithſtanding there en<g ref="char:EOLhyphen"/>tred into the towne two Heſſiſh Regiments, and three Weymariſh, in ſo much that in every houſe lye 20.30. or 40. ſouldiers; and beſides, the Ci<g ref="char:EOLhyphen"/>tizens muſt now ranſome their owne perſons, wives and children, and pay intolerable contri<g ref="char:EOLhyphen"/>bution. They demand of the Duke of Newburg to contribute monethly 240000. Rixdallers; and of the Elector of Collen, 200000. Rixdallers, and that for the ſpace of ſixe moneths. In a word, their intent is to ruinate wholly this and the Ele<g ref="char:EOLhyphen"/>ctor of Collens countrey. We expect them now every houre before this city, and we are reſolved to defend our ſelves as long as we can, becauſe wee ſee that no promiſe and accord is kept by them. We begin now before this City, where it is weakeſt, to raiſe Bulwarks. The ſaid Weyma<g ref="char:EOLhyphen"/>riſh have likewiſe taken 4. houres going from hence the Caſtle of Wetten, and obtained a great bootie in it, and put 40. men into it for a guarri<g ref="char:EOLhyphen"/>ſon. They have likewiſe maſtered the Caſtle of Eys, and afterwards returned back againe. The country of Monſiou hath likewiſe agreed with them, where they uſed the inhabitants better then in Duyren. From Cornelis Muſter all the inhabitants are fled, and not one man ſtaid in it. Our Magiſtrates continue ſtill to levie ſouldiers for the defence of this City, and they have got al<g ref="char:EOLhyphen"/>ready a thouſand men.</p>
+         </div>
+         <div type="entry">
+            <pb n="24" facs="tcp:29867:15"/>
+            <head>
+               <hi>From the Swediſh Head quarter at Saltzwedle the</hi> 12.22. <hi>of February.</hi>
+            </head>
+            <p>COncerning Colonel <hi>Seckendorff</hi> who kept correſpondence with the Imperialiſts, the buſineſſe ſtands thus. The ſaid Colonel had here before deſired of Generall <hi>Torſtenſon</hi> a Paſſe to ſend his Trumpeter to the Imperiall Armie, to get a Paſſe likewiſe of Arch Duke <hi>Leopold William</hi> for his wife, which was neere her time to lye in, that hee might have her the ſafer carryed to Erfund, which Paſſe he obtained in November laſt. The 1.11. of this moneth he ſent his Trum<g ref="char:EOLhyphen"/>peter with other ſealed letters which he had hid in the Saddle towards the Imperiall Armie, but when the ſaid Trumpeter came to the paſſage Abeburg within two Dutch miles from hence, and his paſſe was ſeene by the Major of Generall Major <hi>Coningsmareck</hi> that the ſame was dated above two moneths agoe, he tooke it into conſi<g ref="char:EOLhyphen"/>deration, whether he ſhould ſuffer the ſaid Trum<g ref="char:EOLhyphen"/>peter to paſſe, whereupon he lighting downe from hence to anſwer it, and to make his Paſſe good, the horſe ſhaked the letters out of the ſad<g ref="char:EOLhyphen"/>dle upon the ſtraw, the Trumpeter not knowing of it rides back to relate the buſineſſe to his Col: after his departure a young puppidog comming thither by chance, and tumbling upon the ſtraw, findes one of the letters, and playes with it in his mouth, ſo long, that a Captain of horſe ſpies it, takes the letter from him, breakes it open, and
+<pb n="25" facs="tcp:29867:15"/>after reading of the ſame, underſtands, that <hi>Sec<g ref="char:EOLhyphen"/>kendorff</hi> keeps correſpondence with the Imperia<g ref="char:EOLhyphen"/>liſts, makes it knowne to the preſent Officers, and afterwards ſearching, they find another Letter in the ſtraw, whereupon both were ſent to Generall <hi>Torſtenſon:</hi> Meane while Col: <hi>Seckendorff</hi> having underſtood of the Trumpeter, how he had been ſtaid by the above Major, comes hither on horſe<g ref="char:EOLhyphen"/>back to complaine to the Ambaſſadour <hi>Grabbe,</hi> of the affront done unto him; and having hardly beene with him halfe an houre, and juſt at dinner time, comes in a Captain of Horſe with 30. Horſe<g ref="char:EOLhyphen"/>men, who puts preſently a Piſtol and naked ſword to his breaſt, deſiring to yeeld himſelf a priſoner; whereupon hee was preſently carryed to the Towne-Hall, and the 2.12. of this moneth he was examined by the generall Auditour, and all his writings were ſearcht into, amongſt which they found an Imperiall <hi>Avocatorium.</hi> The third day about nine of the clock in the morning, he was brought before the Marſhall Law, where Gene<g ref="char:EOLhyphen"/>rall Major <hi>Coningſmareck</hi> was Preſident; and af<g ref="char:EOLhyphen"/>ter reading of the Letters, and examination of the ſame, he was condemned to be beheaded; and although by a long ſpeech, that his correſpon<g ref="char:EOLhyphen"/>dence concerned but his owne perſon, and not the publique, hoped to prolong his life; and eſpeci<g ref="char:EOLhyphen"/>ally conſidering his children, he prayed ſo earneſt<g ref="char:EOLhyphen"/>ly, that moſt part of the high Officers that ſate in the Counſel, wept like children: Yet nothing would help, but was brought downe from the Towne-Hall, and upon the market place in the
+<pb n="26" facs="tcp:29867:16"/>old City his head cut off, but his corps was next day after buried in a decent manner. Our Armie is come back againe from Oſterburg, which ſhall be enquartered ſomewhat more aſunder, as far as Lawenburg; to which end divers Regiments of Horſe are paſſed already through this City, and marching thitherwards. The Head quarter and the generall ſtave remaine here; the Imperialiſts have ſent 1000. men, moſt Dragooners, over the Elve, and had a deſigne in hand againſt Colonel <hi>Slanghs</hi> Regiment that lay in Garlau, which the 7.17. of this moneth was ſurpriſed by the Imperia<g ref="char:EOLhyphen"/>liſts, but they loſt no more but 30. Horſemen and about 100. horſes; the reſt retired into the Ca<g ref="char:EOLhyphen"/>ſtle, but their baggage was plundered for the moſt part, and afterwards the Imperialiſts retur<g ref="char:EOLhyphen"/>ned back againe. The Luneburgiſh Treatie at Goſtar was held in moſt places to have been en<g ref="char:EOLhyphen"/>ded, but the Dukes of Brunſwick and Luneburg ſent a large Letter to Generall <hi>Torſtenſon,</hi> certify<g ref="char:EOLhyphen"/>ing therein, that as yet not the leaſt thing was concluded, and withall aſſured him, that they would agree upon nothing, that in any way ſhould be prejudiciall to the Crowne of Sweden, or the Proteſtant cauſe, nor that they intended to ſhew any hoſtility againſt the ſame, but Generall <hi>Tor<g ref="char:EOLhyphen"/>ſtenſon</hi> hath anſwered them in a faire letter, admo<g ref="char:EOLhyphen"/>niſhing them, that they would be pleaſed to con<g ref="char:EOLhyphen"/>tinue yet this ſmall time with the Swedes, till the treatie of a generall Peace might begin: what they will reſolve now, time will ſhew.</p>
+         </div>
+         <div type="entry">
+            <pb n="27" facs="tcp:29867:16"/>
+            <head>
+               <hi>Collen the</hi> 19. <hi>of Feb.</hi> 1. <hi>of March.</hi>
+            </head>
+            <p>ALL the Citizens here have been muſtered, but none more, that had a hand in the tu<g ref="char:EOLhyphen"/>mult with Doctor <hi>Oſterman,</hi> are apprehended. The 14.24. of <hi>Feb.</hi> the Caſtle of Hulekrath was like<g ref="char:EOLhyphen"/>wiſe ſurrendred by compoſition unto the Wey<g ref="char:EOLhyphen"/>mariſh, and the moſt part of the garriſon took pay under the Weymariſh. The parties over-run the whole countrie, finding little oppoſition; they have now the whole Lower Biſhoprick of Col<g ref="char:EOLhyphen"/>len, excepting the Cities of Sonſt and Keyſerſ<g ref="char:EOLhyphen"/>werth under their devotion, out of which they fetch an infinite treaſure of gold, ſilver, and mo<g ref="char:EOLhyphen"/>ney: In Bebert they got ſuch a treaſure, that it is not to be expreſſed, more then 40. Mules could carry. They have ſummoned by open beating of the drum, the Inhabitants of Lin, to come home againe, offering to furniſh them againe with cat<g ref="char:EOLhyphen"/>tle and horſes. Generall <hi>Lamboy</hi> had almoſt made an eſcape out of his enpriſonment by the help of a Boore and a Maſſe-Prieſt neere a Cloy<g ref="char:EOLhyphen"/>ſter, that cloſe ſtands on the wall of Neys, and had got into a Boat already, but was fetcht back againe.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>From Upper Alſatia the</hi> 24. <hi>of Feb. the</hi> 6. <hi>of Mar.</hi>
+            </head>
+            <p>IN Switzerland a Cow brought to the world two children, a boy and a girle; the Cow is burned, but the children are nurſed up, till it may
+<pb n="28" facs="tcp:29867:17"/>be ſeene, whether they will have a humane na<g ref="char:EOLhyphen"/>ture, and be reaſonable creatures, then they ſhall be baptized.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Swaben</hi> 25. <hi>of Feb. the</hi> 7. <hi>of Mar.</hi>
+            </head>
+            <p>THe other night Field-marſhall <hi>Horn</hi> lay at Goppingen, and from thence went to Kir<g ref="char:EOLhyphen"/>chen, and laſt night he lay at Tubingen; he ſhall be brought to Strasburg, where he ſhall be ex<g ref="char:EOLhyphen"/>changed for <hi>John de Werth.</hi>
+            </p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 24. <hi>of Feb. the</hi> 6. <hi>of Mar.</hi>
+            </head>
+            <p>THe Weymariſh Forces lay for a while ſtill, but now they are marching towards Hens<g ref="char:EOLhyphen"/>berg, where they will find more reſiſtance, be<g ref="char:EOLhyphen"/>cauſe they keep no promiſe or accord. Thoſe of Duyren are ſorry now, that they did not defend themſelves to the laſt man. At this inſtant wee heare that a part of their Armie hath beſieged Lechenich. Generall <hi>Hatsfeld</hi> hath deſired of this City, five of the greateſt Peeces of Ordnance, to<g ref="char:EOLhyphen"/>gether with all the furniture, and ſome 100. men of our new levied Forces, but it is thought that they will afford him nothing, which will defer his going to field. The King of France is marching with a ſtrong Armie towards Catalonia, who carryeth along with him 10. millions of gold. Al<g ref="char:EOLhyphen"/>though <hi>Maximilian,</hi> young Duke of Bavaria, is choſen Coadjutor of the Biſhop of Collen, not<g ref="char:EOLhyphen"/>withſtanding the Duke of Lorraine for divers rea<g ref="char:EOLhyphen"/>ſons
+<pb n="29" facs="tcp:29867:17"/>proteſts againſt it, pretending that the ſaid Duke of Bavaria hath gotten ſome voices by cor<g ref="char:EOLhyphen"/>rupting them with monies.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Hall the</hi> 22. <hi>of Feb. the</hi> 4. <hi>of Mar.</hi>
+            </head>
+            <p>THe Swediſh Generall Major <hi>Coningſmarck</hi> with 2000. Horſemen &amp; 1000. Dragooners marched towards the Hartz, and yeſterday about 9. of the clock in the morning arrived before the Caſtle of Mansfeld, where he ſurpriſed the Impe<g ref="char:EOLhyphen"/>riall and Saxon Troops of Horſe and Foot, tooke moſt of them Priſoners, put ſome to the ſword, and the reſt retired hither to Hall, Querfurt, Mo<g ref="char:EOLhyphen"/>ersburg, and Sangerhauſen; Colonel <hi>Baron de Four</hi> &amp; his Lieutenant Colonel being both woun<g ref="char:EOLhyphen"/>ded, and having loſt 3. Standards, came to Mo<g ref="char:EOLhyphen"/>ersburg, two Saxon Captains of Dragooners, Captaine <hi>Kluge</hi> and Captaine <hi>Leheman,</hi> and Ser<g ref="char:EOLhyphen"/>geant Major <hi>Rickard</hi> were wounded, and taken pri<g ref="char:EOLhyphen"/>ſoners, thoſe that fled into Eyſleben are likewiſe taken priſoners, and the city was pillaged 6. hours long by the Swedes, and afterwards marched back againe towards Mansfeld.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Moersburg the</hi> 23. <hi>of Feb. the</hi> 5. <hi>of Mar.</hi>
+            </head>
+            <p>THe Imperiall Colonel <hi>Baron de Four</hi> is fled hither from before Mansfeld, but before his retreat, he beat the Swediſh Vantgard five or ſix times back, but they were too ſtrong for him, they had 8. Squadrons of Horſe, and 1000. Dra<g ref="char:EOLhyphen"/>gooners. Col: <hi>Four</hi> hath loſt many of his Horſe,
+<pb n="30" facs="tcp:29867:18"/>notwithſtanding he carryed away priſoners ſome of the Swedes, which relate, that the Swediſh Artillerie is gone from Saltzwedel and Luckaw, towards Minden, and the river of Weſar, and that the whole Armie is following.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Lutzen the</hi> 24. <hi>of Feb. the</hi> 6. <hi>of Mar.</hi>
+            </head>
+            <p>THe City of Eiſleben the Swedes have whol<g ref="char:EOLhyphen"/>ly pillaged, and they have likewiſe taken pri<g ref="char:EOLhyphen"/>ſoner Colonel <hi>Kochs</hi> wife, who lately dyed of the Conſumption. We heare, that the Foot Forces of Colonel <hi>Koch</hi> are for the moſt part ſlaine, as alſo Lieutenant Colonel <hi>Shlick,</hi> who commanded them. <hi>Baron de Four,</hi> Sergeant Major <hi>Shafgotch,</hi> and the Lieutenant of Col: <hi>Kochs</hi> Regiment, are wounded, and brought to Moersburg.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Vienna the</hi> 23. <hi>of Feb. the</hi> 5. <hi>of Mar.</hi>
+            </head>
+            <p>THey hope here ſtill that the Palatine Treatie will have a happy ſucceſſe, becauſe the Em<g ref="char:EOLhyphen"/>perour (as is ſaid) hath likewiſe declared himſelfe concerning the King of Spaine, to reſtore the Lower Palatinate.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Gulick the</hi> 25. <hi>of Feb. the</hi> 7. <hi>of March.</hi>
+            </head>
+            <p>THis City is ſo full of the poore Countrey people, that all cellars and ſtreets, together with the walls, are filled with men and cattle, which are ſtarved for want of food. The Count
+<pb n="31" facs="tcp:29867:18"/>of Eberſtein, Generall of the Heſſiſh Armie, hath ſent a Letter to the Spaniſh Governouthere, de<g ref="char:EOLhyphen"/>ſiring him to continue the neutrality; but the ſaid Governour hath referred the Count of Eberſtein to Bruſſels, to <hi>Don Franciſco di Melo,</hi> Governour of Flanders.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Aaken the</hi> 25. <hi>of Feb.</hi> 7. <hi>of Mar.</hi>
+            </head>
+            <p>I Cannot but certifie you in few words, of the diſtreſſed ſtate and condition of this City. Whereas the Citizens here intended to ſend their beſt goods with a ſtrong Convoy to Maſtricht, they have beene intercepted by the Weymariſh, and all the goods taken away to the value of a Tunne of gold. Our Magiſtrates have ſent their Deputies to the Weymariſh Generals, to what end is not knowne.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Durgen the</hi> 26. <hi>of Feb.</hi> 8. <hi>of Mar.</hi>
+            </head>
+            <p>AFter that the Weymariſh are come into this City, they have not kept the leaſt condition of their accord made with us, but enquartered here five regiments, as namely, three of horſe, and two Regiments of Dragooners; and beſides, they have brought hither ſo many horſes, which they have taken up and downe in the Countrie, that in this Citie about 11000. horſes ſtand, the Stables, Halls, and Parlours of moſt houſes are fild up with horſes, &amp; if the Weymariſh have time to mount themſelves, and be furniſhed with ſad<g ref="char:EOLhyphen"/>dles
+<pb n="32" facs="tcp:29867:19"/>and Piſtols, they will forme an incredible Armie; they have pilladged all houſes, taken a note of all the come, amounting to above 100000. quarters, and beſides, they begin now to ranſome all perſons, every one according to his a<g ref="char:EOLhyphen"/>bility, and that which is the worſt of all, they keepe no promiſe and accord to no body, which makes the people quite deſperate, and beleeve, that the Turkes cannot deale worſe with them; by which meanes they draw all young trades men to their ſide, becauſe, whereſoever they come, all things are a prey unto them: And of all this our miſery and loſſe, our own Prince is the onely cauſe, becauſe he ſpoke ſo much of the neutrality, and made thereby the inhabitants ſecure that they did not ſend away their beſt goods.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Eyskirchen the</hi> 26. <hi>of Feb.</hi> 8. <hi>of Mar.</hi>
+            </head>
+            <p>BY theſe heavie Guarriſons and plundrings, which the neutrality of our Prince hath brought upon us, our Prince ſummons now anew the contribution very earneſtly, for the Weymariſh and Heſſiſh forces. Here about and as far as Sulpich lyes in every Gentlemans houſe a company of horſe, of a 100. 120. and 130. men, all their horſes they have gotten in the Country, they want onely armes, and it is to be feared, that the Cities doe treate with them to remaine free, and that they will furniſh them, which within few dayes will come to light, becauſe out of all quar<g ref="char:EOLhyphen"/>ters they are going towards Hengſperg, and let
+<pb n="33" facs="tcp:29867:19"/>Aaken alone, it is ſuppoſed that thoſe of Aaken have agreed with them. From all Gentlemens houſes all the corne, bacon, and proviſion is car<g ref="char:EOLhyphen"/>ried towards Sulpich, Neus, and ſo forwards to the next Holland Guarriſon. They have ſuch a number of horſes, that they can mount at leaſt 12000. freſh horſmen. We are in a moſt miſerable condition, the ſuccour ſtayes ſo long away: it is feared, that when it comes it will he too weake: In the meane time the Weymariſh grow ſtronger and ſtronger.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 27. <hi>of Feb. the</hi> 9. <hi>of Mar.</hi>
+            </head>
+            <p>THE Queene Mother is arrived at Weſel, and is comming for Holland; the French in Piccardie draw together, intending to go to field, and to make a diverſion, becauſe the Spaniards intend to beſiege Baſſee. The French King is paſſed Narbona, and haſteneth his march to<g ref="char:EOLhyphen"/>wards Catalonia.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Hamborough the</hi> 22. <hi>of Feb.</hi> 4. <hi>of Mar.</hi>
+            </head>
+            <p>THe Swedes lye at this preſent at Saltzwedel, where the head quarter is, and divers of their Regiments lye enquartered at Garleben, Oſterburg, and Luneburg, and ſome lye at Dan<g ref="char:EOLhyphen"/>neberg, Luchaw, as far as Atlingburg, along the River of Elve. Gen: Major <hi>Stolhans</hi> is at Stral<g ref="char:EOLhyphen"/>ſond, where likewiſe is the Lord <hi>Lichtmar,</hi> Am<g ref="char:EOLhyphen"/>baſſadour for the Electour of Brandenburg. As
+<pb n="34" facs="tcp:29867:20"/>ſoone as the ſame are diſpatched, the Lord <hi>John Oxenſtern</hi> will goe from thence with a traine of 15. Coaches to Oſnabrugge and Munſter, where a generall treatie of Peace ſhall be held, but <hi>Stol<g ref="char:EOLhyphen"/>hans,</hi> as ſoone as he hath received the monies, is to returne back to his Armie. The K. of Denmark keeps a Dyet at Coppenhagen, intending to put himſelfe into a poſture of war, becauſe Holſtein, and the Countie of Shaumburg and Pinneberg are a thorne in the Emperours eyes.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Erfund the</hi> 23. <hi>of Feb. the</hi> 5. <hi>of Mar.</hi>
+            </head>
+            <p>AFter that the Swediſh Generall Major <hi>Co<g ref="char:EOLhyphen"/>ningſmarck</hi> had relieved the ſtrong Caſtle of Mansfeld, he returned with 600. Priſoners back over the Hartz to the Armie, who hath ranſomed Nordhauſen for 6000. but Sangerhauſen for 3000. Rixdallers, and many other places, he pilla<g ref="char:EOLhyphen"/>ged. General <hi>Torſtenſons</hi> Armie lies yet in and a<g ref="char:EOLhyphen"/>bout Saltzwedel. The Imperiall and Bavarian Forces are arrived in Miſnia and Duringen: At Franckenhauſen and Naumburg is the Head<g ref="char:EOLhyphen"/>quarter.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Leipſig the</hi> 23. <hi>of Feb. the</hi> 5. <hi>of Mar.</hi>
+            </head>
+            <p>YEſterday the Imperial Armie broke up from Prena, and marched hither towards Shleu<g ref="char:EOLhyphen"/>nitz. Yeſterday <hi>Piscolomini</hi> himſelfe came hither into this City, intending to meet Arch-Duke <hi>Leopold William</hi> at Wartzen.</p>
+         </div>
+         <div type="entry">
+            <pb n="35" facs="tcp:29867:20"/>
+            <head>
+               <hi>Leipſig the</hi> 27. <hi>of Feb.</hi> 9. <hi>of Mar.</hi>
+            </head>
+            <p>THe Bavarian Armie which paſſed the 24. of this moneth at Aaken, over the ſhip-bridge, marched through the Principality of Anhalt, to<g ref="char:EOLhyphen"/>wards Cothen and Delitſh, and they are to march towards Moersburg, Lubenaw, and Skeiditz, and from thence towards Zeitz and Newſtat, and ſo forwards towards Cronach, and the river of Mayne and Rhyne: But the Imperiall Armie under the command of <hi>Piccolominie,</hi> which is likewiſe broke up and paſſed the river of Elve, is to have its head quarter at Zeitz; and the Foot-Forces at Hall, Weiſſenfels, Maersburg, Na<g ref="char:EOLhyphen"/>umburg, Jena, and thereabouts, by the river Sa<g ref="char:EOLhyphen"/>ala; and the Cavallerie along the river of Mulda, to keep a watchfull eye upon the Swediſh Ar<g ref="char:EOLhyphen"/>mie; And for that <hi>Coningſmarck</hi> hath relieved the Caſtle of Mansfeld, therefore the Imperiall Co<g ref="char:EOLhyphen"/>lonel <hi>de Four</hi> with his Troops is arrived at Mo<g ref="char:EOLhyphen"/>ersburg. Sangerhauſen the Swedes have ran<g ref="char:EOLhyphen"/>ſomed for 2000. Rixdallers, and taken along with them ſome of the Senate. Out of the Marquiſate of Brandenburg we have no other newes, but that the Imperiall Forces under the Duke of Saxon Lawenburg, are gone to their Winter quarters. Meane while Col: <hi>Wanke</hi> hath pillaged the City of Forſt, and done great harme in Luſatia. Gene<g ref="char:EOLhyphen"/>rall <hi>Stolhans</hi> is come with 50. Horſemen to Sletin, to ſolicite for the Winter-quarters: in whoſe place Generall Major <hi>Lillietweck</hi> hath the com<g ref="char:EOLhyphen"/>mand,
+<pb n="36" facs="tcp:29867:21"/>and at Creſſen makes great preparations with fire-work, ſcaling ladders, and other neceſ<g ref="char:EOLhyphen"/>ſaries.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 2.12. <hi>of Mar.</hi>
+            </head>
+            <p>THe Weymariſh Forces have got a great number of horſes in theſe countries, and mounted the moſt part of their Foot forces. They have muſtered their Armie, and found the ſame 22000. ſtrong, beſides thoſe that lye here and there in guarriſon.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Norimberg the</hi> 4.14. <hi>of Mar.</hi>
+            </head>
+            <p>THe Bavarian Forces are now in the way to<g ref="char:EOLhyphen"/>wards the river of Mayne and Rhyne, and ſo to Collen. The Imperiall Forces are marching into Miſnia. The Swediſh Generall Major <hi>Co<g ref="char:EOLhyphen"/>ningſmarck</hi> is following, and no queſtion is but Gen: <hi>Torſtenſon</hi> himſelfe will follow with the maine Armie. The Bavarian Generall <hi>Waht</hi> is ar<g ref="char:EOLhyphen"/>reſted by Arch-Duke <hi>Leopold William.</hi> It is repor<g ref="char:EOLhyphen"/>ted, that the Imperialiſts and Bavarians have not left above 4000. Foot of their Armies.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>From the Country of Wirtemberg the</hi> 27. <hi>of Feb. the</hi> 9. <hi>of Mar.</hi>
+            </head>
+            <p>THe Swediſh Governour at Hehenwiel keeps thoſe at Conſtance in a continuall Alarum, hath burned Engen and Slecko, and makes many places pay contribution unto him.</p>
+         </div>
+         <div type="entry">
+            <pb n="37" facs="tcp:29867:21"/>
+            <head>
+               <hi>Collen the</hi> 3.13. <hi>of Mar.</hi>
+            </head>
+            <p>OUr Magiſtrates have as yet reſolved no<g ref="char:EOLhyphen"/>thing upon the three points propounded by Gen. <hi>Hatsfeld:</hi> meane while the levying of For<g ref="char:EOLhyphen"/>ces is ſtrongly continued, as alſo the building of the Ship-bridge. The other night ſome of Gen: <hi>Hatsfeld</hi> his Forces had an enterpriſe in hand againſt the City of Eyskirchen, being ſtrong a<g ref="char:EOLhyphen"/>bout 1500. Horſe and Foot, amongſt which were 2. à 300. Boores; their intent was to blow open the gates with Petards, and to ſurpriſe the Wey<g ref="char:EOLhyphen"/>marians there, but took no effect. From Bruſſels they write, that the Duke of Lorraine is entred anew into the King of Spains ſervice, the Condi<g ref="char:EOLhyphen"/>tions are kept ſecret, and that an extraordinary Expreſſe comming from Spaine is arrived there with Bils of Exchange of 3. millions, and 150000. Crowns, which cauſeth amongſt the Spaniards great joy.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Gulick the</hi> 3.13. <hi>of Mar.</hi>
+            </head>
+            <p>OUr Governour hath order from <hi>Don Fran<g ref="char:EOLhyphen"/>ciſco di Melo</hi> to keep the neutrality with the Helliſh forces. Wherefore the ſubjects of the Bi<g ref="char:EOLhyphen"/>ſhop of Collen &amp; of the County of Gulick, dwel<g ref="char:EOLhyphen"/>ling neere this City, as alſo at Erchlentz and Ker<g ref="char:EOLhyphen"/>pen, are now carryed away priſoners, which the Heſſiſh and Weymariſh ranſome, in ſo much that they can now bring away all their bootie without any hinderance, which is to be admired.</p>
+         </div>
+         <div type="entry">
+            <pb n="38" facs="tcp:29867:22"/>
+            <head>
+               <hi>Duyren the</hi> 3.13. <hi>of March.</hi>
+            </head>
+            <p>ALL the Citizens here, women, children, and families, as alſo all Boores, are now ranſo<g ref="char:EOLhyphen"/>med, in ſo much that it is not to be expreſſed what ſtore of money the weymariſh and Heſſiſh Forces bring together: In theſe Countries they have gotten and taken away above 20000. horſes ſerviceable for war.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Leipſig the</hi> 4.14. <hi>of March.</hi>
+            </head>
+            <p>THe Bavarian Armie is marching towards the river of Rhyne, to joyne with Generall <hi>Hatsfeld.</hi> Yeſterday 5. Regiments of Foot about 1000. ſtrong, marched through the Suburbs of this City towards Lutzen and Zeitz, and the Ca<g ref="char:EOLhyphen"/>vallerie paſſed through Skeiditz and Harburg. There comes ſtill one Expreſſe after another to them to haſten their march, becauſe the Elector of Collen hath great need of them, and the Im<g ref="char:EOLhyphen"/>perialiſts would likewiſe faine keep that Armie here. The Imperial Armie hath its head quarter at Brembt, 4. Dutch miles from hence, 2. Dutch miles from Hall, in the way towards Bitterfeld. The Forces are not yet all come over the river of Elve; in their main march the Ship-bridge broke, whereof ſome ſhips were driven downe towards Magdeburg: the reſt of the Imperiall Armie ſhal be carryed over the river of Elve, at Wittem<g ref="char:EOLhyphen"/>berg, or Torgaw, to be enquartered on the Fron<g ref="char:EOLhyphen"/>tiers
+<pb n="39" facs="tcp:29867:22"/>of Bohemia. The ſaid Armie is mightily conſumed, and the ſouldiers remaining looke ve<g ref="char:EOLhyphen"/>ry poore.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 6.16. <hi>of Mar.</hi>
+            </head>
+            <p>THe Weymariſh and Heſſiſh Forces at this time keep their randevouz at Duyren, and found their Armie compleat 22000. ſtrong, and doe daily ſtrengthen themſelves. <hi>Hatsfelds</hi> and the Spaniſh Troops begin to draw together; they long for the Bavarian ſuccour. Few dayes agoe they had ſome enterpriſe in hand againſt the Weymariſh, that lye in Eyskirchen, intending to blow open a gate with Petards, but failed of their enterpriſe. The City of Aaken is yet in great danger and feare, and the townes-men fortifie themſelves as well as they can, being reſolved to defend themſelves to the laſt man.</p>
+            <p>From Narbona of the 8.18. of <hi>March</hi> they write for certaine, that the whole Kingdome of Arragon is revolted from the King of Spaine, be<g ref="char:EOLhyphen"/>ing reſolved to chooſe a new King. 5000. Foot and 2000. Horſe of the French Forces are already a<g ref="char:EOLhyphen"/>mongſt them to aid and aſſiſt them. The King of France in perſon with the maine Armie was mar<g ref="char:EOLhyphen"/>ching towards Coluvre to beſiege the ſame place, becauſe the City of Perpignano and other places thereabouts have ſtill been relieved from thence.</p>
+         </div>
+         <div type="entry">
+            <pb n="40" facs="tcp:29867:23"/>
+            <head>
+               <hi>Hamborough the</hi> 10.20. <hi>of Mar.</hi>
+            </head>
+            <p>THe Swediſh Ambaſſadour hath brought here 2000. barrels of corne, which ſhall be car<g ref="char:EOLhyphen"/>ryed to the Swediſh Armie. The Swediſh Gene<g ref="char:EOLhyphen"/>rall Major <hi>Coingſmarck</hi> hath been againe with ſome Troops as far as Oſherſleben, which paſſage he viewed very narrowly: and of the City of Helmſtat he demanded a great ſtore of corne to victuall therewith the Caſtle of Wolffsburg. The Imperiall Forces lye enquartered in Miſnia and Duringen; in ſome places betwixt the river of Saala and Elve, lye 14 à 1500. men a piece to keep a watchfull eye to the deſign of the Swe<g ref="char:EOLhyphen"/>diſh Armie, in ſo much that the Dukedome of Saxonie will ſuffer againe very much, and by all appearance, it will cauſe a great famine in that Countrey. The Bavarian Forces make all the haſte they can to march towards the river of Rhyne, to joyne with Field-marſhall <hi>Hatsfeld.</hi>
+            </p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Gollen the</hi> 10.20. <hi>of Mar.</hi>
+            </head>
+            <p>ALL the Generals of the Weymariſh Armie have been together at Neys, where they kept Counſel of Warre. <hi>Conte de Guebrian,</hi> Ge<g ref="char:EOLhyphen"/>nerall of the French Forces, lyes with the Infan<g ref="char:EOLhyphen"/>terie, and Artillerie about Lechenich. One of our Convoyes comming from thence hitherwards with corne and other commodities, was by 200. Weymariſh Horſemen ſurpriſed in the village
+<pb n="41" facs="tcp:29867:23"/>of Lubler, which ſlew ſome of our Townes-men and ſouldiers, tooke from them all the corne and goods, fired ſix houſes, and chaſed the fugitives to the very gates of this City. Afterwards they tooke a view of our new builded Ship-bridge, in ſo much that we were faine to play with our Ca<g ref="char:EOLhyphen"/>nons amongſt them. Generall Major <hi>Roſa</hi> with ſome troopes hath ſtragled as far as Bonne, where he pillaged diverſe Villages, and afterwards mar<g ref="char:EOLhyphen"/>ched towards Maſtricht, to fetch from thence 14. great peeces of Ordnance, which the States of Holland do lend to the Weymariſh Armie; there are likewiſe 6000. French Souldiers expected from France to joyne with the ſaid Armie. The 50. Companies which the States of Holland have caſhier'd, are likewiſe marching thitherwards to joyne with the ſaid Armie.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Leipſig the</hi> 11.21. <hi>of Mar.</hi>
+            </head>
+            <p>YEſterday Arch-Duke <hi>Leopold William</hi> went from his Head quarter at Skeuditz to Seitz. The Imperiall Regiments are now all gone to their aſſigned quarters, as alſo the three Regi<g ref="char:EOLhyphen"/>ments, which at the breaking of the bridge could not paſſe the river of Elve, and lay hitherto in the Suburbs of Wittemberg. Thoſe 3. Regiments are now likewiſe paſſed by this City. From Magde<g ref="char:EOLhyphen"/>burg they write, that Col: <hi>Kinsky</hi> &amp; Col: <hi>Hoecking</hi> are ſet are liberty, and gone from thence to the Swediſh Armie, but Col. <hi>Birckenfeld</hi> is ſtaid yet there, who hopes to be exchanged for the Impe<g ref="char:EOLhyphen"/>riall
+<pb n="42" facs="tcp:29867:24"/>Colonel Count <hi>Pompei.</hi> The Shediſh horſe<g ref="char:EOLhyphen"/>men in ſtrong parties over-run all the countrey. Generall Major <hi>Coningſmarck</hi> in his returne from Mansfeld hath pillaged divers cities and market townes, and for his owne particular got a bootie of 60000. Rixdallers. From Sileſia they write, that the Imperiall forces there are to keep theſe 3. moneths long in their quarters, to refreſh them<g ref="char:EOLhyphen"/>ſelves; meane while <hi>Stolhans</hi> his horſemen over<g ref="char:EOLhyphen"/>run all the country thereabouts, eſpecially Lower Luſatia.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 11.21. <hi>of Mar.</hi>
+            </head>
+            <p>FEw dayes ſince the Weymariſh have been with 1000. horſe-men about Bonne, and fired ſome houſes; before Lechenich they appeared likewiſe very ſtrong, and skirmiſhed with the Im<g ref="char:EOLhyphen"/>periall Guarriſon there; afterwards they met with a Convoy, which was comming from thence hitherwards, which they defended, and tooke from them 50. horſes, for a booty. A ſtrong troop of them appeared likewiſe by this City, which had an aime at our Ship-bridge: we keepe now ſtrong watch neere unto it, and divers Court<g ref="char:EOLhyphen"/>guards are builded. Generall Major <hi>Roſa</hi> hath beene with the Governour of Maſtricht to fetch away from them the 14. promiſed peeces of Ord<g ref="char:EOLhyphen"/>nance.</p>
+         </div>
+         <div type="entry">
+            <pb n="43" facs="tcp:29867:24"/>
+            <head>
+               <hi>Leipſig the</hi> 12.22. <hi>of Mar.</hi>
+            </head>
+            <p>THE Bavarian armie, which is paſſed by this City, hath taken its way towards Zeits and Gera, and ſo for Franconia. The Imperiall Armie whoſe Head quarter is in Zeitz, lies betwixt the river of Saala and Elve, and ſome regiments here abouts, and in the Principality of Anhalt, in ſo much that this Countrey will now fully be rui<g ref="char:EOLhyphen"/>nated. The Bavarian Armie is ſo much ruinated, that it is not to be expreſſed. Of 9000. men are hardly left 4000. able and fighting men, and the Officers themſelves confeſſe, if they muſt march to Collen without refreſhing, that the reſt will for the moſt part be fully ruinated. In their paſ<g ref="char:EOLhyphen"/>ſing by this City, many being half ſtarved, could not follow the Armie, and were forced to ſtay behind. The Imperiall Armie is not much leſſe conſumed and ruinated, which conſiſts of 35. Re<g ref="char:EOLhyphen"/>giments both horſe and foot, 8. à 9000. ſtrong. In a word, the relieving of Wolffenbutle, and the marching over the river of Elve, hath conſumed many brave and ſtout ſouldiers, in ſo much that the ſaid Armie is weakned exceeding much. It is ſtill reported, that Arch-Duke <hi>Leopold William</hi> and Generall <hi>Piccolomini</hi> are to goe into the Low Countries, and in ſtead of them Duke <hi>Francis Al<g ref="char:EOLhyphen"/>bert</hi> of Saxon Lawenburg, is to command both this and the Sileſian Armie.</p>
+         </div>
+         <div type="entry">
+            <pb n="44" facs="tcp:29867:25"/>
+            <head>
+               <hi>Shweitz the</hi> 9.19. <hi>of Mar.</hi>
+            </head>
+            <p>THe Burgundians about 1500. ſtrong, under the command of the new Governour Baron <hi>de Lecy,</hi> have taken the Caſtle of Crimors, and lye now before Poligni, ſo that their neutrality comes to nothing. The Swediſh Governour in Hohen<g ref="char:EOLhyphen"/>wiel urgeth much <hi>Roſenegge</hi> and <hi>Homburg</hi> for con<g ref="char:EOLhyphen"/>tribution, and goes about now to levie new for<g ref="char:EOLhyphen"/>ces. The like doth Col. <hi>John Roſa.</hi>
+            </p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Strasburg the</hi> 11.21. <hi>of Mar.</hi>
+            </head>
+            <p>THe exchanging betwixt <hi>Guſtavus Horn</hi> and Generall <hi>John de Werth,</hi> ſhall be performed on Munday next about 9. of the clock in the morn<g ref="char:EOLhyphen"/>ing, betwixt Offenburg and Bryſſack in the open field; each of them is to have for a Convoy 100. horſemen, 1. Lieutenant Colonel, and 2. Captains, ſo that all things ſhall faithfully be performed.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Magdeburg the</hi> 12.22. <hi>of March.</hi>
+            </head>
+            <p>THe other day the Ships and other materials of the Imperiall Ship-bridge were brought hither againe. At this inſtant we heare, that the Swedes draw now together all their Forces, and keepe their randevouz about Oſterburg. It is be<g ref="char:EOLhyphen"/>leeved, that they will march into this, and into the Biſhoprick of Halberſtat; and becauſe they bring all their Artillery and Ammunition to the rande<g ref="char:EOLhyphen"/>vouz,
+<pb n="45" facs="tcp:29867:25"/>it is beleeved that they will not long lye ſtill.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Skeuditz the</hi> 13.23. <hi>of Mar.</hi>
+            </head>
+            <p>ARch-Duke <hi>Leopold William</hi> hath his head<g ref="char:EOLhyphen"/>quarter yet here; and this day the moſt part of his baggage was carryed towards Zeitz: and we heare, that he himſelfe will continue here yet theſe two or three dayes, becauſe the whole Ca<g ref="char:EOLhyphen"/>vallerie ſhall be provided with victuals for ten dayes, and then be commanded over the river of Saala, becauſe the Swediſh Armie is broke up, and marching towards Halberſtat.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Leipſig the</hi> 13.23. <hi>of Mar.</hi>
+            </head>
+            <p>YEſterday the Count <hi>Broy</hi> and Generall Major <hi>Sperreutter</hi> were commanded abroad with 600. Imperiall horſemen, to deſcrie the Swediſh Armie, which (as it ſeemeth) hath an aime at Halberſtat, and intend to ſurpriſe the Imperialiſts in their quatters here and there.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Gulick the</hi> 13.23. <hi>of Mar.</hi>
+            </head>
+            <p>IT is not to be expreſſed what riches the Wey<g ref="char:EOLhyphen"/>mariſh Forces get in this Countrey, and in the Biſhoprick of Collen, becauſe theſe Countries be<g ref="char:EOLhyphen"/>fore their comming were full of riches and provi<g ref="char:EOLhyphen"/>ſion. They ranſome now highly all men, villages and Caſtles; they carry all the riches away out of the Country to the next Holland Guarriſons, and the Bavarian ſuccour is yet far off.</p>
+         </div>
+         <div type="entry">
+            <pb n="46" facs="tcp:29867:26"/>
+            <head>
+               <hi>Collen the</hi> 13.23. <hi>of Mar.</hi>
+            </head>
+            <p>FIeld-marſhall <hi>Hatsfelds</hi> Armie lyes along the river of Rhyne, on the ſide of the countrie of Bergh; the Countrey people will afford them nothing without ready money, and before the comming of the Bavarian ſuccour they dare not venture to come over the Rhyne, becauſe the Weymariſh Forces are ſo exceeding ſtrong. The Imperiall Colonel <hi>Hiacinto di vera,</hi> who was ta<g ref="char:EOLhyphen"/>ken priſoner in the laſt battaile, when Generall <hi>Lamboy</hi> was taken, hath made an eſcape in a Boors habit, and is come from Neys to Keyſerſwerth. The Imperiall common ſouldiers run daily away in a great number, and take pay under the Wey<g ref="char:EOLhyphen"/>mariſh. The Weymariſh have promiſed unto the Duke of Newburg, that they will not meddle with Bruggen, Mullem, Hinsberg, Born, Gulick, Hambach, Eſhweiler, and Kolberg; if ſo be that the ſtate of war will permit it, the reſt of the coun<g ref="char:EOLhyphen"/>try of Gulick, and the Archbiſhoprick of Collen, are taxed to pay monethly unto the Weymariſh 37176. Rixdallers. Yeſterday the Weymariſh appeared againe very ſtrong before this City, and killed ſome of our townes-men: whereupon our ſouldiers about 3000. ſtrong, marched without the gate, and put themſelves in battalia, but no<g ref="char:EOLhyphen"/>thing paſſed betweene both parties. Generall Ma<g ref="char:EOLhyphen"/>jor <hi>Roſa</hi> hath obtained of the Governour of Ma<g ref="char:EOLhyphen"/>ſtricht 14. great Peeces of Ordnance. Yeſterday arrived here Col: <hi>Dunckel,</hi> who ſhall be exchanged
+<pb n="47" facs="tcp:29867:26"/>fer the Marqueſſe of Durlach. It is certaine, that the States of Holland have caſhier'd 3. Regiments, which have taken pay againe under the Weyma<g ref="char:EOLhyphen"/>riſh: and it is certaine alſo, that 6000. freſh ſoul<g ref="char:EOLhyphen"/>diers are comming from France to joyn with the Weymariſh Armie. <hi>Don Franciſco di Melo</hi> makes preparations to beſiege <hi>la Baſſee,</hi> wherefore the French draw likewiſe together about Amiens to make a diverſion.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 14.24. <hi>of March.</hi>
+            </head>
+            <p>AT this preſent 2000. Weymariſh lye here about the Weyer gate, on the other ſide of <hi>Lazarus</hi> houſe. They have about them, as is re<g ref="char:EOLhyphen"/>ported, two Morter Peeces; what their de<g ref="char:EOLhyphen"/>ſigne is, is not knowne. The Bavarian ſuc<g ref="char:EOLhyphen"/>cour about 5000. ſtrong, is paſſed by Coburg, and is is to be here within 14. dayes. The 8.18. of this moneth, the Imperialiſts that lye at Keyſerſ<g ref="char:EOLhyphen"/>werth, about 150. ſtrong, have defeated not far from Neys a Weymariſh Convoy comming from Weſel, and obtained from them a very rich bootie.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Bremen the</hi> 14.24. <hi>of March.</hi>
+            </head>
+            <p>THe Emperour hath ſent 300000. Florens to Duke <hi>Francis Albert</hi> of Saxon Lawenburg, to pay the Imperiall Armie; and upon the ſaid Duke he hath beſtowed the Generalſhip of the Empire, and it is yet for certaine reported, that
+<pb n="48" facs="tcp:29867:27"/>Arch Duke <hi>Leopold William</hi> is to have the govern<g ref="char:EOLhyphen"/>ment in Braband. The States of Moravia have conſented to contribute to the Emperor 250000. Florens, for the continuation of the warre.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Norimberg the</hi> 14.24. <hi>of Mar.</hi>
+            </head>
+            <p>THe Bavarian Forces could not get leave to lye ſtill, and to refreſh themſelves a little, be<g ref="char:EOLhyphen"/>cauſe there comes ſtill one Expreſſe after another to haſten their march. From Coburg they are gone towards Coningſhoven; from thence they are to march through the Biſhoprick of Fulda, the neareſt way towards the Biſhoprick of Collen, they muſt make all the haſte they can.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Antwerp the</hi> 14.24. <hi>of Mar.</hi>
+            </head>
+            <p>THe other day in the after-noone, arrived here <hi>Don Franciſco di Melo,</hi> who was received by twenty companies of townes-men; all the Ca<g ref="char:EOLhyphen"/>nons were diſcharged, and Vollie ſhots made by the Musquetiers. Yeſterday in the after-noone he went up to the Caſtle, where he was againe wel<g ref="char:EOLhyphen"/>commed with diſcharging of the Canons, and this day he intends to goe to viſit all Forts. The Spa<g ref="char:EOLhyphen"/>niſh Troops that lye in the Country of Luxen<g ref="char:EOLhyphen"/>burg, have order to keep themſelves in a readi<g ref="char:EOLhyphen"/>neſſe. It is thought that the ſaid <hi>Don Franciſco di Melo</hi> will aſſault within few dayes the City of <hi>la Baſſee.</hi> From hence are carried again ſome 1000. Crowns to Bruſſels, and the levying of ſtrong
+<pb n="49" facs="tcp:29867:27"/>Forces is ſtill continued in Artoys, Hennault, and Flanders, in ſo much that the Spaniards intend to goe to field this yeare with a ſtronger Armie then they did laſt yeare.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 16.26. <hi>of Mar.</hi>
+            </head>
+            <p>THe Bavarian Armie is making all the haſte it can hitherwards, but the ſouldiers tire themſelves exceedingly, and look moſt pitifully. The Swediſh Generall Major <hi>Coningſmarck,</hi> as we heare, is going with ſome 1000. men at Minden over the river of Weſar; It is thought, that his intent is to lye betwixt the Bavarian Forces, and Field-marſhall <hi>Hatsfelds</hi> Armie, to hinder their conjunction; 2. à 3000. of <hi>Hatsfelds</hi> horſemen are already drawing together. The Emperour and the Duke of Bavaria made over to this City a great ſumme of money to buy ammunition and armour for the ſouldiers. In the Palatinate they take up freſh ſouldiers for the re-inforcing of the Com<g ref="char:EOLhyphen"/>panies.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Amſterdam the</hi> 19.29. <hi>of Mar.</hi>
+            </head>
+            <p>AT Dunkerke are brought up two ſmall priſes comming from Barbadoes, loaden with wool and Tobacco. All our men of war are ready to goe to ſea. The Heſſiſh goe about it to lay a man of War before Ordingen, which is to take the Cuſtome of all Ships going up &amp; down. The Prince of Orange hath charged Col: <hi>Morgan,</hi>
+               <pb n="50" facs="tcp:29867:28"/>Governour of <hi>Bergen Opſohm,</hi> to keep in readines 4. companies of his ſouldiers to aid and aſſiſt with them Count <hi>William</hi> of Naſſaw, as ſoone as hee ſhall receive order from him. We heare that the Spaniards draw together at Damme, and that they have ſome deſigne in hand. It is confirmed alſo, that a great ſumme of money is made over from Spaine by bils of exchange to <hi>Don Franciſco di Melo,</hi> amongſt which are 60000. Piſtolets to pay the Souldiers, which muſt have their Com<g ref="char:EOLhyphen"/>panies compleat againſt the 5.15. of Aprill, and it is promiſed unto them, that as ſoone as they come into the field, they ſhall have two moneths pay. At Dunkerk is publiſhed by Proclamation, that to take all ſuſpition from the Crown of Eng<g ref="char:EOLhyphen"/>land, no man ſhall undertake to carry any ammu<g ref="char:EOLhyphen"/>nition or men for Ireland, to relieve the Rebels there. The Count of Harcourt is expected at Amiens, who is to command the Armie in Pic<g ref="char:EOLhyphen"/>cardie, which keepes its randevous about Pero<g ref="char:EOLhyphen"/>nia. Into the court of the Duke of Longueville at Paris are brought 155. Enſignes and Standards, which were gotten by the Weymariſh Armie in the overthrow of <hi>Lamboys</hi> Armie.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Franckford the</hi> 18.28. <hi>of Mar.</hi>
+            </head>
+            <p>IT is certain, that <hi>Guſtavus Horn</hi> and <hi>John de Werth</hi> are exchanged one for another. <hi>Guſtavus Horn</hi> is gone to Bryſſack, &amp; <hi>John de Werth</hi> to Mun<g ref="char:EOLhyphen"/>chen to the D. of Bavaria. The Palatine treaty at Vienna by all appearance wil be diſſolved, and
+<pb n="51" facs="tcp:29867:28"/>come to nothing, becauſe the Duke of Bavaria demands ſuch unreaſonable conditions, that Sir <hi>Thomas Rowe,</hi> and the Palatine Ambaſſadours, cannot with any reputation condeſcend unto it. With the laſt letters from Vienna they write, that the treaty with the Emperour of Turkie which was diſſolved, is re-aſſumed againe, and that a peace is now concluded betwixt the Romane Emperour and the Emperour of Turkie for 20. yeares. On Weneſday laſt was chriſtened here in our Church at Franckford a Jew, who had ſer<g ref="char:EOLhyphen"/>ved in <hi>Lamboys</hi> Armie for a horſeman, and had followed the warre theſe 14. yeares.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Franckford the</hi> 25. <hi>of Mar. the</hi> 4. <hi>of Apr.</hi>
+            </head>
+            <p>THis weeke arrived here a perſon of great quality, who brings newes that the Electour of Saxonie is exceedingly offended with the Im<g ref="char:EOLhyphen"/>periall enquarterings, complaining that a heavier burthen was not laid upon his ſubjects ſince the beginning of theſe wars, which forceth his ſub<g ref="char:EOLhyphen"/>jects to run away, and to leave their goods behind them, becauſe the Imperiall ſouldiers exact ſo much upon them; whereas their promiſe made at firſt was, that every ſouldier ſhould pay for his victuals, which is not performed by them, but the ſubjects muſt furniſh them with all neceſſaries at their owne charges. That partie reports alſo, that the Elector of Saxonie hath not ſo ſtately en<g ref="char:EOLhyphen"/>tertained now Arch-Duke <hi>Leopold William</hi> as he hath done at former times; of whom our Ele<g ref="char:EOLhyphen"/>ctour
+<pb n="52" facs="tcp:29867:29"/>asked at dinner, how the treatie ſtood be<g ref="char:EOLhyphen"/>twixt the Emperour and the Duke of Luneburg; he anſwered, that the Imperiall ratification would ſhew it; the Electour replyed, it may prove ſuch another as the concluſion of Peace made at Prague: the ſaid Electour is extreamly impati<g ref="char:EOLhyphen"/>ent. Arch-Duke <hi>Leopold William</hi> is gone to Vien<g ref="char:EOLhyphen"/>na, <hi>Piccolomini</hi> is to follow after. Meane while Count <hi>du Soys</hi> is to command the Armie, and Duke <hi>Francis Albert</hi> is to aſſiſt him, which Duke will not goe to field before the latter end of June, and not under 20000. men compleate; the ſaid Duke told openly, that he cleared Sileſia of the Swedes more by favouring of the Proteſtant re<g ref="char:EOLhyphen"/>ligion, then by the ſword. From Dreſden they write that the Electour of Saxonie intends to ſeeke a neutrality of the Swedes, becauſe the Ele<g ref="char:EOLhyphen"/>ctour of Brandenburg hath done the like, and the Electour of Collen ſeekes the ſame of the French King.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Hamborough the</hi> 25. <hi>of Mar.</hi> 4. <hi>of Apr.</hi>
+            </head>
+            <p>THe King of Denmark is to keepe a Dyete at Coppenhagen, and is preparing many Ships for the Sea, and hath given order to his forces to be ready for a march. Our Citie feareth that hee aimeth at us, and we keepe our ſelves in readineſſe for it. The Swediſh Generall <hi>Torſtenſon</hi> is broke up with the Armie, and gone over the Elve at San<g ref="char:EOLhyphen"/>daw, ſome thinke that hee will take his way to<g ref="char:EOLhyphen"/>wards Sileſia. General Major <hi>Coningſmarck</hi> hath
+<pb n="53" facs="tcp:29867:29"/>beene abroad again, and pilladged Quedlenburg, and other Townes and Villages, and returned with the bootie to the Armie.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Coburg the</hi> 28. <hi>of Mar. the</hi> 7. <hi>of Apr.</hi>
+            </head>
+            <p>THE Bavarian Forces are broke up againe from hence, and are gone through Franco<g ref="char:EOLhyphen"/>nia, towards the River of Rhyne. About Smal<g ref="char:EOLhyphen"/>kalden are arrived 1000. Imperiall horſemen, and the reſt of the Imperiall forces are enquartered in Miſnia.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 28. <hi>of Mar. the</hi> 7. <hi>of Apr.</hi>
+            </head>
+            <p>THe Ship-bridge for the Imperiall and Bava<g ref="char:EOLhyphen"/>rian Armie is laid here over the Rhyne, and on both ſides of the River Sconces are made. The Spaniſh begin to fortifie the City of Gulick, thither are ſent monies and 20000. palliſadoes to make it a place invincible: they expect alſo 2000. foote to re-inforce their Garriſon. The Weyma<g ref="char:EOLhyphen"/>riſh and French doe in the Countrey what they pleaſe, and lye about Aaken. They have taken Betſhat, and batter now the Caſtle of Bredenbent. Generall Major <hi>Roſa</hi> hath muſtered the Cuarriſon at Duyren, and found in it 7. <hi>à</hi> 8000. horſes. Ge<g ref="char:EOLhyphen"/>nerall <hi>John de Werth</hi> is arrived at Augſpurg, and ſtately entertained by the Magiſtrates, from thence he goeth to Munchen, where a flying Ar<g ref="char:EOLhyphen"/>mie of 6000. men is found for him to goe with it to the upper part of the Rhyne.</p>
+         </div>
+         <div type="entry">
+            <pb n="54" facs="tcp:29867:30"/>
+            <head>
+               <hi>Leipſig the</hi> 18. <hi>of Mar.</hi> 7. <hi>of Apr.</hi>
+            </head>
+            <p>THE Letters from Berlin confirme that the Swediſh Armie is paſſed over the River of Elve at Werben and Sandaw, and is going to<g ref="char:EOLhyphen"/>wards Sileſia, to joyn with <hi>Stolhans</hi> his forces, which lye about Franckford on the Oder, Croſ<g ref="char:EOLhyphen"/>ſen, and other places. From Dreſden they write, that the Imperiall Ambaſſadour Count <hi>Frawn</hi> Colonel went from thence to Vienna, his meſſage was, that the Emperour deſired that the quarters for the Imperiall forces in Miſnia might bee enlarged, which the Electour of Saxonie refuſed.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Zeitz the</hi> 28. <hi>of Mar. the</hi> 7. <hi>of Apr.</hi>
+            </head>
+            <p>THe Swediſh Gen: Major <hi>Coningſmarck</hi> hath gotten again about Quedlenburg of Col: <hi>Feduaries</hi> Regiment, 50. horſes. and 60. diſmoun<g ref="char:EOLhyphen"/>ted horſemen.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Lower Saxonie the</hi> 28. <hi>of Mar. the</hi> 7. <hi>of Apr.</hi>
+            </head>
+            <p>GEnerall <hi>Torſtenſon</hi> hath kept a ſtately ban<g ref="char:EOLhyphen"/>quet for all his chiefe officers the 20.30. of <hi>March</hi> at Saltzwedel. The next day after hee broke up with his Armie, and went towards Arn<g ref="char:EOLhyphen"/>ſea, Tangermund, and Werben, and at Sandaw was his Ship-bridge, where he paſſed over the Elve; his march is ſuppoſed to be either for Si<g ref="char:EOLhyphen"/>leſia,
+<pb n="55" facs="tcp:29867:30"/>or Zerbſt and Wittenberg. <hi>Chriſtian Ludwig</hi> Duke of Luneburg, cauſeth ammunition and other neceſſaries to be carried from Hildeſheim to Ha<g ref="char:EOLhyphen"/>nover, to keep there his reſidence, as is ſuppoſed. From Padeborn they write, that the Luneburgiſh Colonel <hi>Reuſh</hi> intended to lead his 400. horſemen to the Heſſiſh Armie, but his men perceiving it, made a mutinie at Nicheim, tore off the Stan<g ref="char:EOLhyphen"/>dards, threatned to kill the officers, asked monie, and compelled the Officers to lead them back againe, becauſe they will rather ſerve the Duke of Luneburg, or the Emperour.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Duringen the</hi> 2.12. <hi>of Apr.</hi>
+            </head>
+            <p>THe Swediſh Governour at Erfurd having heard that 4. Companies of Croats of Col: <hi>Beygotz</hi> his Regiment arrived at Greiſſen; he ſent ſome 100. Horſemen and Dragooners, which ſeized upon that towne; at night at two of the clock ſlew many Croats, and tooke priſoners one Sergeant Major, one Captain of Horſe, two Lieu<g ref="char:EOLhyphen"/>tenants, one Standard bearer, and 250. ſouldiers, which they with 245. horſes brought into Erfurd.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 3.13. <hi>of April.</hi>
+            </head>
+            <p>HEre is a great dearth, and we can ſcarce get bread for money. The Weymariſh lye a<g ref="char:EOLhyphen"/>bout Aaken, and take in all Noblemens houſes. The other day ſome 100. of them paſſed by this
+<pb n="56" facs="tcp:29867:31"/>City, againſt which our Garriſon iſſued forth, and killed 40. of them. The City of Aaken fea<g ref="char:EOLhyphen"/>ring a ſiege, provides ammunition and proviſi<g ref="char:EOLhyphen"/>on, and entertains Col: <hi>Goldſtein,</hi> who commands 1000. Musquetiers. The Magiſtrates of the ſaid City entertaine five Captains more, and gather daily more ſouldiers, and make Sconces. The City of Liege hath promiſed to aſſiſt them. The Croats at Gulick have defeated a Convoy, and brought into that City two Captains priſoners. They have many Engeniers, which are to for<g ref="char:EOLhyphen"/>tifie that place with more out-works. The Go<g ref="char:EOLhyphen"/>vernour of the ſaid City brings into that towne a great ſtore of ammunition and proviſion for two yeeres. From Frankford they write, that the Bavarian Forces are arrived not far from thence, which deſire of the Landgrave of <hi>Parmſtat</hi> that they might have quarter thereabouts for a fort<g ref="char:EOLhyphen"/>night, but it is denyed to them.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Leipſig the</hi> 2.12. <hi>of Apr.</hi>
+            </head>
+            <p>THe Swediſh Armie marcheth on both ſides of Berlin, in two parts. On Tueſday laſt one of their parties took away many horſes and cat<g ref="char:EOLhyphen"/>tle, within halfe a Dutch mile of Berlin. At this inſtant we heare, that Generall <hi>Torſtenſons</hi> head<g ref="char:EOLhyphen"/>quarter is foure Dutch miles from Wittemberg, from whence meſſengers art ſent to <hi>Piccolomini,</hi> who lyes yet at Zeitz, to come and to ſuccour the ſaid City, at which (as is ſuppoſed) the Swedes doe aime. <hi>Piccolomini</hi> hath commanded ſome
+<pb n="57" facs="tcp:29867:31"/>Regiments thitherwards. From Zerbſt they write, that 6. Swediſh Companies of horſe and ſome Quarter-maſters, are arrived there, and their Cavalerie is much ſeene about the Elve, deſcry<g ref="char:EOLhyphen"/>ing the Countrey of Zerbſt; they demand 15000. Rixdallers, or elſe they muſt take in 5. Regiments. Their Infanterie and Artillerie, marcheth along the River of Havell to joyne with <hi>Stollhans</hi> his Forces, and ſome of their Companies are paſſed the Havell already, and haſten their march to<g ref="char:EOLhyphen"/>wards Luſatia. From Deſſaw they write that Col: <hi>Spiegel</hi> hath commanded a party of the Elve, which hath defeated a Swediſh party, tooke 1. Col. 1. Captain of horſe, &amp; 50. common ſouldiers.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>From Caſſel in Heſſen the</hi> 4.14. <hi>of Apr.</hi>
+            </head>
+            <p>IT is certain that the Swediſh Armie is paſſed at Sandaw, the River of Elve, and hath joy<g ref="char:EOLhyphen"/>ned with <hi>Stolhans</hi> his armie, which is now going for Luſatia and Sileſia, betwixt the Imperiall head Armie, and <hi>Francis Albert,</hi> Duke of Saxon Lawenburgs Armie. The Swediſh Generall Ma<g ref="char:EOLhyphen"/>jor <hi>Coningſmarek</hi> with ſome 1000. horſemen, lyes yet in the Biſhoprick of Halberſtat, who is to follow the Armie within few dayes. At this in<g ref="char:EOLhyphen"/>ſtant we heare, that the Swediſh Armie is arrived already about Torgaw, it is thought that they in<g ref="char:EOLhyphen"/>tend to beſiege the City of Wittenberg, which puts the D. of Saxonie in great fear, who hath ſent one expreſſe after another for <hi>Picolominie</hi> to aid &amp; aſſiſt him in keeping the Swedes out of his Coun<g ref="char:EOLhyphen"/>trey: unto the Imperial Armie are given 2. months pay.</p>
+         </div>
+         <div type="entry">
+            <pb n="58" facs="tcp:29867:32"/>
+            <head>
+               <hi>Aaken the</hi> 6.16. <hi>of April.</hi>
+            </head>
+            <p>THe Weymariſh are gone with 2000. horſe<g ref="char:EOLhyphen"/>men towards Maſtricht, to fetch from thence ammunition and other neceſſaries, we are ſtill in great feare that they will beſeige this City; our Magiſtrates have called home again all the Citi<g ref="char:EOLhyphen"/>zens that are fled, and thoſe that wil not come, ſhall pay 100. Rixdallers apiece. To Neys are brought 19. carts loaden with money, and 70. carts and wagons with ammunition for the Wey<g ref="char:EOLhyphen"/>mariſh armie, ſo that it is not doubted but they have ſome great enterpriſe in hand; they have made an attempt again upon the Ship-bridge at Collen, but could doe no good. The Bavarian ſuccour conſiſting of 17. Regiments, but very we ake, is paſſed already the City of Hanaw: <hi>Hatsfeld</hi> meanes to bring together with the Bava<g ref="char:EOLhyphen"/>rian Forces an armie of 16000. men, but the Wey<g ref="char:EOLhyphen"/>mariſh are ſtronger.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Duſſeldorp the</hi> 7.17. <hi>of Apr.</hi>
+            </head>
+            <p>THE Weymariſh and French Forces keepe themſelves ready in all quarters to march forward, ſome thinke they aime at Aaken, others at Bonne. From Caſſel they write, that two Lune<g ref="char:EOLhyphen"/>burgiſh Regiments of horſe are going to take pay under the Heſſiſh Generall Count of Eber<g ref="char:EOLhyphen"/>ſtein. The Imperiall ſouldiers under Generall <hi>Hatsfeld</hi> run away in great number, and for want
+<pb n="59" facs="tcp:29867:32"/>of pay live moſt miſerably. The Weymariſh Commanders keepe now better diſcipline a<g ref="char:EOLhyphen"/>mong the Souldiers then they have done, ſo that the husbandman can plough the field again. From Amſterdam they write, that the Spaniſh Gover<g ref="char:EOLhyphen"/>nour in Bridges <hi>DonCantelmo</hi> had a deſigne in hand againſt Sluyce, but being diſcovered was forced to retire with the loſſe of 100. men and ſome boats. The Hollanders at Maſtricht had likewiſe a deſigne in hand againſt Stevenſwerth, but their plot was likewiſe diſcovered.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Franckford the</hi> 8.18. <hi>of Apr.</hi>
+            </head>
+            <p>AT Collen are met together Ambaſſadours from the Emperour, to conſult how to op<g ref="char:EOLhyphen"/>poſe the Heſſiſh and Weymariſh Armie, which play ſtill the maſters in the Biſhoprick of Collen. The Bavarian Armie under the command of Ge<g ref="char:EOLhyphen"/>nerall <hi>What</hi> and <hi>Mercy,</hi> lay laſt night at Budringen; they make all the haſte they can for Collen. The treatie betwixt the Emperour and the Duke of Luneburg is broke off, and come to nothing. The City of Collen is in great diſtreſſe for want of proviſion; they can hardly get corne or bread for money, and for feare of an inſurrection, many of the chiefeſt towneſmen are retired from thence, and fled hither to this City. From Hamborough with the laſt Letters they confirme, that the Swe<g ref="char:EOLhyphen"/>diſh Garriſon at Erfurd hath ſallied out, and de<g ref="char:EOLhyphen"/>feated a whole Regiment of Crabats, killed the moſt part of them, and brought back into the
+<pb n="60" facs="tcp:29867:33"/>Citie for above 250. horſes, and 4000. Rixdallers in money. From Lyon is written and alſo confir<g ref="char:EOLhyphen"/>med that the French Generall <hi>Houdencourt</hi> after that he had taken upon diſcretion the City of Co<g ref="char:EOLhyphen"/>luvre, in the Country of Ruſſillion, hath likewiſe totally routed and defeated the Spaniſh Armie, ſlaine above 4000. Spaniards upon the place, ta<g ref="char:EOLhyphen"/>ken priſoners above 2500. common Souldiers, and about 200. great Commanders, and other Offi<g ref="char:EOLhyphen"/>cers, amongſt which is the Vice-Roy of Arragon. After this overthrow the Spaniards forſooke the City of Conſtantin, and retired into Arragon; for this victory the French King hath made Gen. <hi>Houdencourt</hi> Marſhall of France. From Dunkerck and other places they write for certain, that the Spaniards have beſieged la Baſſee, which is guar<g ref="char:EOLhyphen"/>ded by the French, with 3. à 4000. men.</p>
+            <p>From Holland they confirme that the Hollan<g ref="char:EOLhyphen"/>ders in the Weſt Indies have taken the City and Iſleland of Saint Tomee.</p>
+            <p>From Collen is confirmed, that to Neys are brought 27. barrels with money, and 80. wag<g ref="char:EOLhyphen"/>gons loaden with ammunition, pikes, bootes, and other neceſſaries for the Weymariſh Armie.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Hamborough the</hi> 8.18. <hi>of Apr.</hi>
+            </head>
+            <p>THe King of Denmarke is yet at Coppenha<g ref="char:EOLhyphen"/>gen who is ſetting out 26. men of warre, and cauſeth great preparation to bee made both by Sea and land, to what end is not yet knowne; his Forces that lye in Schoven, Sealand, and other
+<pb n="61" facs="tcp:29867:33"/>Provinces, ſhall be ſent within few dayes towards Halſtein. Laſt week the old Prince of Luneburg dyed at Harburg, of whoſe reſidence D. <hi>Fredrick</hi> of Cell took preſently poſſeſſion. From Lower Saxo<g ref="char:EOLhyphen"/>nie is confirmed, that the Swediſh Gen: <hi>Torſten<g ref="char:EOLhyphen"/>ſon</hi> having paſſed the river of Elve, and left ſtrong Garriſons in Saltzwedel and Garleben, is gone towards Zerbſt; and ſo upwards towards Sileſia and Luſatia. At this inſtant comes a flying report, that the Imperiall Colonel <hi>Goldacker</hi> having paſ<g ref="char:EOLhyphen"/>ſed at wittenberg the river of Elve, hath rouzed 2. Swediſh Regiments, taken priſoner 1. Leiute<g ref="char:EOLhyphen"/>nant Colonel, 1. Captain of horſe, and ſome common horſemen, and obtained forty horſes for a bootie. Generall <hi>Piccolominie</hi> lyes yet in his head-quarter at Zeitz, who, as it is ſtill reported, is to goe within few dayes with foure Regiments towards the Low Countryes; and meane while, till the Duke of Saxon Lawenburg comes back from Vienna, the Imperiall Generall of the Artilery, Baron de Soys, is to command the Imperiall Forces, which lye yet ſtill in their for<g ref="char:EOLhyphen"/>mer quarters in Miſnia and Thuringen, which muſt be ready to breake up againſt the 11.21. of May. Generall <hi>Stollhans</hi> having cleared himſelfe of the accuſation laid upon him, is gone back from Stetin to his armie, unto whom is promiſed a ſuccour both of men and monies; &amp; for a recom<g ref="char:EOLhyphen"/>pence of his ſervice, a brave piece of land is be<g ref="char:EOLhyphen"/>ſtowed upon him in Pomerania.</p>
+         </div>
+         <div type="entry">
+            <pb n="62" facs="tcp:29867:34"/>
+            <head>
+               <hi>Erfurd the</hi> 8.18. <hi>of Apr.</hi>
+            </head>
+            <p>THe Imperialiſts lye in their quarters yet ſtill, we hear nothing as yet of their breaking up: onely it is reported that the Imperiall head Ar<g ref="char:EOLhyphen"/>mie ſhall be divided, and that one part of it ſhall joyne with <hi>Francis Albert,</hi> Duke of Saxon La<g ref="char:EOLhyphen"/>wenburg, and the other part under the command of Gen. <hi>Piccolomini</hi> ſhall goe towards <hi>Collen</hi> and the river of Rhyne. The 29 of <hi>March</hi> ſome 100. horſemen, Dragooners and Muſquetiers of our Garriſon here ſurpriſed at Grieſſen about two of the clock in the morning, 4. Companies of Cro<g ref="char:EOLhyphen"/>ats of Col: <hi>Beygots</hi> Regiment, ſlew many of the Croats, took 150. Priſoners, amongſt which was one Serjeant Major, one Captaine of Horſe, to<g ref="char:EOLhyphen"/>gether with two Lieutenants, and one Standard<g ref="char:EOLhyphen"/>bearer, and brought hither for a bootie 250. horſes.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 7.17. <hi>of Apr.</hi>
+            </head>
+            <p>THe Weymariſh and Heſſiſh Armie is now broke up, and lyes about Caſter and Gre<g ref="char:EOLhyphen"/>venbroeck. Yeſterday 16. Peeces of Ordnance were carryed from Hulekrath towards Bebber. Many are of opinion that they aime at Aaken, in which City lye 2000. new levied ſouldiers, which are reſolved to defend themſelves, to which end they have caſt up divers Sconces and out-works. The Electour of Collen fearing that they might
+<pb n="63" facs="tcp:29867:34"/>fall upon Lechenich or Breul, hath ſent thither about an hundred men more, to re-inforce the Guarriſon there. Within few dayes we ſhall ſee what their deſigne is. The Countrey about Aaken hath made its agreement with the Weymariſh and Heſſiſh Armie, and paid 5000. Rixdallers contribution.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Caſſel in Heſſen the</hi> 8.18. <hi>of Apr.</hi>
+            </head>
+            <p>WIth the laſt Letters from Hamborough they write that they have not as yet re<g ref="char:EOLhyphen"/>ceived the leaſt information concerning the Im<g ref="char:EOLhyphen"/>periall ratification about the Praeliminaria or beginning of the Treatie. Hence the Ambaſſa<g ref="char:EOLhyphen"/>dours of the Crowne of Sweden and France, con<g ref="char:EOLhyphen"/>ceive and are of opinion that on the Emperours ſide, they have no great minde to a peace, eſpeci<g ref="char:EOLhyphen"/>ally becauſe the King of Denmark, cauſed the Letter which inſtead of the ratification he recei<g ref="char:EOLhyphen"/>ved from the Emperour, to be delivered unto the Swediſh Ambaſſadour <hi>Salvius</hi> by his Reſident here, bare, and without any other joynt letter; neither had he commiſſion to propound therewith any thing elſe, which the ſaid Ambaſſadour <hi>Sal<g ref="char:EOLhyphen"/>vius</hi> tooke for an affront. The King of Denmarke is yet at Coppen Hagen, preſent at the Dyet, which is kept there, and in his dominions great prepa<g ref="char:EOLhyphen"/>rations for war are made, both by ſea and land. The Duke of Brunſwick and Luneburg have had an Ambaſſadour at Hamborough with the Swe<g ref="char:EOLhyphen"/>diſh and French Ambaſſadours, to acquaint them
+<pb n="64" facs="tcp:29867:35"/>with the reaſons that moved them to the treatie, aſſuring them alſo, that that treatie ſhould be in no way prejudiciall to both Crowns, and deſiring withall, that they might be ſpared with all man<g ref="char:EOLhyphen"/>ner of hoſtilities, and the Cities of Nienburg and Bleckede be reſtored back unto them. To which the Ambaſſadours returned that anſwer, that they would acquaint their Principalities therewith, and that meane while they would keep with them the former correſpondence. The like they deſired of Gen. <hi>Torſtenſon,</hi> of whom they had not ſo faire an anſwer.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Collen the</hi> 10.20. <hi>of Apr.</hi>
+            </head>
+            <p>THe other day the Weymariſh and Heſſiſh Cavallerie begirded the City of Lechenich, which lyes but 3. houres going from hence; and the night thereupon following, the Infanterie with the Artillery conſiſting of 20. Peeces of Ord<g ref="char:EOLhyphen"/>nance, amongſt which are 4. Demicanons, came likewiſe before it. In the ſaid City lye 700. Im<g ref="char:EOLhyphen"/>periall ſouldiers, and 2. Companies of Horſe: The horſemen being they can do no ſervice in the Ci<g ref="char:EOLhyphen"/>ty, thought to break through the Weymariſh and Heſſiſh Armie, and ſo get away, but they were beaten back againe by the Weymariſh Cavalle<g ref="char:EOLhyphen"/>rie, and chaſed to the very gates. The ſaid City is fortified with deep and broad moats, and the Caſtle ſufficiently provided with Canons, and o<g ref="char:EOLhyphen"/>ther neceſſaries. The Weymariſh are reſolved as ſoone as they have taken that place, to aſſault ei<g ref="char:EOLhyphen"/>ther
+<pb n="65" facs="tcp:29867:35"/>Bonne or Breul. Here in Collen are publi<g ref="char:EOLhyphen"/>ſhed Letters Patents by the Imperiall Ambaſſa<g ref="char:EOLhyphen"/>dour, that every Citizen ſhall contribute the 100. peny of his whole eſtate for the maintenance of the Imperiall ſouldiers, which our Magiſtrates will not condeſcend unto. The Ship-bridge is now laid over the Rhyne, and a halfe Moon caſt up before it. <hi>Hatsfeld</hi> longs for the Bavarian ſuc<g ref="char:EOLhyphen"/>cour, and to haſten their march, he himſelfe in perſon is gone to meet them, which Forces lye yet enquartered within a Dutch mile of Frank<g ref="char:EOLhyphen"/>ford. As ſoone as Gen: <hi>What</hi> comes back againe, for whom 150000. Rixdallers lie ready at Frank<g ref="char:EOLhyphen"/>ford, they are to receive a moneths pay, and then haſten forward for Collen. The Weymariſh that lye at Duyren have given out Commiſſions to le<g ref="char:EOLhyphen"/>vie two Regiments of foot and two Regiments of horſe: the countrey people come by hundreds to them, and take pay. The 7.17. of this moneth the Weymariſh received 3. moneths pay. From <hi>Baſil</hi> they write, that Field-marſhall <hi>Horn</hi> is paſſed through the ſaid City, who takes his way through France for Sweden. From Bryſſack they write, that Col. <hi>Canofsky</hi> hath ſurpriſed an Imperial par<g ref="char:EOLhyphen"/>tie, killed 40 of them, and taken 100. priſoners.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Leipſig the</hi> 10.20. <hi>of Apr.</hi>
+            </head>
+            <p>FRom Berlin they write, that the Swediſh Ge<g ref="char:EOLhyphen"/>neral Provant Maſter, and Captain <hi>Rebe,</hi> are arrived there, which ſolicite for proviſion; where<g ref="char:EOLhyphen"/>fore the Nobility and the Cities are now in deli<g ref="char:EOLhyphen"/>beration
+<pb n="66" facs="tcp:29867:36"/>to provide for them as much as they can, that they may be rid of them, becauſe at Treyen<g ref="char:EOLhyphen"/>brietzen and other places thereabouts, they have eaten up all the proviſion, &amp; at Brandenburg they have bought great ſtore of bread and beere for their monies, but the city of Zerbſt is in great diſtreſſe, of which city they demand 20000. Rix<g ref="char:EOLhyphen"/>dallers, 120000. pounds of bread, 600. vats of beere, and 180. horſes. Gen. <hi>Torſtenſon</hi> with his Armie and Artillery lyes now before the city of Luckaw in Lower Luſatia, which he battereth fiercely, and at this inſtant we heare that he hath taken already the ſaid city, and afterwards fired the ſame: we heare alſo, that <hi>Stolhans</hi> his Armie hath joyned with him about Colbas. It is reported alſo, that the Swediſh Armie is now marching towards Wittemberg; what they will attempt, we ſhall heare by the next.</p>
+         </div>
+         <div type="entry">
+            <head>
+               <hi>Vienna the</hi> 6.16. <hi>of April.</hi>
+            </head>
+            <p>THe Lady <hi>Elizabeth,</hi> widow of the late Prince Electour Palatine, hath ſent a Letter hither to the Electorall Ambaſſadours about the reſti<g ref="char:EOLhyphen"/>tution of her joynture, wherein ſhe ſtyles her ſelfe yet <hi>Queene of Bohemia, Ducheſſe of Sileſia, Marqueſſe of Moravia, and Upper and Lower Luſatia,</hi> and uſeth alſo the Armes of that Kingdome, and the here<g ref="char:EOLhyphen"/>ditary countryes: which Letter the Ambaſſa<g ref="char:EOLhyphen"/>dours kave communicated in originall to the Em<g ref="char:EOLhyphen"/>perour, but being it is not the way to a faire trea<g ref="char:EOLhyphen"/>tie, wherefore the Originall was ſent back again
+<pb n="67" facs="tcp:29867:36"/>to her. It is reported, that the Emperor intends to ſend for England, Count <hi>Leſley,</hi> together with ano<g ref="char:EOLhyphen"/>ther Privie Councellor, for Ambaſſadours.</p>
+            <p>From France they write, that ſince the taking of Coluvre in the county of Ruſſilion, and the over<g ref="char:EOLhyphen"/>throw of the Spaniſh Armie, the French have cloſe beſieged the city of Perpignano, and that the K. of France himſelf in perſon is in the camp. The city of la Baſſee in Artoys is cloſe beſieged by the Spaniards, under the command of <hi>Don Fran<g ref="char:EOLhyphen"/>ciſcodi Melo.</hi> The Count of Harcourt, General for the French, and <hi>Duc de Guyſe,</hi> went with 1200. men to relieve it, but comming neere the city, he found the Spaniards ſo faſt entrenched, that he was faine to returne back again without any expedition; which city the French themſelves give already loſt.</p>
+            <p>From Holland they write, that all the traine of the Artillery of the States Armie is carryed to Nimmegen, and that the Forces begin to march thither from all places to their randevouz. With the laſt Letters from Hamborough they confirm, that the K. of Denmark hath laid a cuſtome 16. <hi>per cent.</hi> upon all Engliſh and Scottiſh ſhips going through the Sound. An Engliſh Ship called the Exchange of London, with 24. Peeces of Ord<g ref="char:EOLhyphen"/>nance, going from Dover towards S. Malo with 160. ſacks of Reals of eight, and many bars of ſil<g ref="char:EOLhyphen"/>ver and other rich commodities, to the value of above 50000. li. ſterling, is taken by 5. Dunkerke Fregats, and brought into Dunkerke.</p>
+         </div>
+         <div type="entry">
+            <pb n="68" facs="tcp:29867:37"/>
+            <head>
+               <hi>An Extract of a Letter from Narbona the</hi> 8.18. <hi>of Aprill.</hi>
+            </head>
+            <p>WIth the laſt Poſte Licertified you of two ſeverall battails and encounters that hap<g ref="char:EOLhyphen"/>pened in Catalonia, betwixt the French Generall <hi>Monſieur de la Mette, Houdencourt,</hi> and the Spaniſh Armie, which came to ſuccour and relieve the Ci<g ref="char:EOLhyphen"/>ty and Caſtle of Coluvre being cloſe beſieged by the French Generall <hi>Monſieur de Milleraye,</hi> and brought to great extremity, in which two bat<g ref="char:EOLhyphen"/>tails and encounters, the Spaniſh Armie had al<g ref="char:EOLhyphen"/>wayes the worſt, and was defeated. At laſt the Marquis de Bouvoir, who had the command over the Spaniſh Armie, finding it impoſſible to ſuc<g ref="char:EOLhyphen"/>cour and relieve the City of Coluvre, tooke his returne againe towards Terragona, wherefore the above named Generall, <hi>Monſieur de la Mette Houdencourt</hi> lay in wait for him neere <hi>Ville Franyne de Panades,</hi> and meeting him in the mid, totally routed and defeated the remainder of his Armie, that of high Officers and common Souldiers hardly one eſcaped, that was not taken priſoner, or ſlaine, as appeareth by the Liſt: Of the like battail was hardly ever heard in theſe Countries; wherefore his Majeſty the French King, came hi<g ref="char:EOLhyphen"/>ther to this City of Narbona, and cauſed <hi>Te Deum laudamus</hi> to be ſung in the great Church. Within few dayes after the City of Coluvre was taken by aſſault by the French, in taking where<g ref="char:EOLhyphen"/>of not above 25. or 30. French Souldiers were
+<pb n="69" facs="tcp:29867:37"/>ſlaine; as ſoone as the French had entered the City, the Spaniſh Guarriſon retired into the Ca<g ref="char:EOLhyphen"/>ſtle, where they thought to hold out ſo long, till ſome ſuccour or reliefe might come, but the French being loath to loſe any time, fell preſent<g ref="char:EOLhyphen"/>ly to worke with them, and being they intercep<g ref="char:EOLhyphen"/>ted, the Governours Marquis de Mortaras letters to the Spaniſh Generall, wherein he intimated his diſtreſſe and extremity, and ſolicited for a ſpeedy ſuccour, the French Souldiers were the more eager at it, and fell to undermining of a half moone and the walls, but the ſaid Spaniſh Gover<g ref="char:EOLhyphen"/>nour being loath to expect the blowing up of the Myne, yeelded, and came to a compoſition, and marched out with bag and baggage. Here fol<g ref="char:EOLhyphen"/>loweth now the Liſt of thoſe Spaniſh Comman<g ref="char:EOLhyphen"/>ders, and Officers, and common Souldiers, that were ſlain and taken priſoners in the fore-mentio<g ref="char:EOLhyphen"/>ned battailes.</p>
+         </div>
+         <div type="list">
+            <head>A Liſt of thoſe Commanders, and Officers of the Spaniſh Armie, which were taken priſoners in the battails.</head>
+            <list>
+               <item>
+                  <hi>MArquis de Saccare, Colonel of the K. of Spains</hi>
+               </item>
+               <item>
+                  <hi>Life-guard, and Generall of the Arragonian Armie.</hi>
+               </item>
+               <item>
+                  <hi>Duke Franciſco de Forieto, Marſhall de Campe.</hi>
+               </item>
+               <item>
+                  <hi>Marquis de Dugla Generall of the Cavallerie.</hi>
+               </item>
+               <item>
+                  <hi>Baron Vicenzo de la Maro, Lieutenant Generall of the Armie.</hi>
+               </item>
+               <item>
+                  <hi>Marquis de Mouſsin, Maiſtre de Campe.</hi>
+               </item>
+               <pb n="70" facs="tcp:29867:38"/>
+               <item>
+                  <hi>A Young Duke of Cordona.</hi>
+               </item>
+               <item>
+                  <hi>Baron de la Doſe, Generall Commiſſarie.</hi> 4. <hi>other Com<g ref="char:EOLhyphen"/>miſſaries.</hi>
+               </item>
+               <item>
+                  <hi>Don Franciſco de Tailfert, Lieutenant Generall of the Artillerie.</hi>
+               </item>
+               <item>
+                  <hi>Don Bertrant de Toralto.</hi> Captaines of Horſe.</item>
+               <item>
+                  <hi>Don Thibercare.</hi> Captaines of Horſe.</item>
+               <item>
+                  <hi>Don Carlo Cauſsietant.</hi> Captaines of Horſe.</item>
+               <item>
+                  <hi>Don Hieronymo de Marque.</hi> Captaines of Horſe.</item>
+               <item>
+                  <hi>Don Mannel de Guion.</hi> Captaines of Horſe.</item>
+               <item>
+                  <hi>Don Joſepho d' Erpinel.</hi> Captaines of Horſe.</item>
+               <item>
+                  <hi>Don Gabriel de Marque.</hi> Captaines of Horſe.</item>
+               <item>4. Majors. 2. Sergeant Majors. 40. Captaines of Foot. 45. Reformed Captains. 45. Lieutenants. 25. Reformed Corporals. 15. Reformed Lieute<g ref="char:EOLhyphen"/>nants. 1. Reformed Colonel. 13. Colonels of the Dragooners. 130 other Officers of the Ca<g ref="char:EOLhyphen"/>vallerie. 1200. Common ſouldiers. In all, 1555. priſoners, together with all the Artillery and baggage, and 4000. are ſlaine upon the place, both of Officers and common ſouldiers, but the Liſt of their names is not come to our hands.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29867:38"/>
+         </div>
+      </body>
+   </text>
+</TEI>
